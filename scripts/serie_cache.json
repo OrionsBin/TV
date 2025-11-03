@@ -56951,5 +56951,31 @@
       80
     ],
     "cached_at": "2025-11-03T01:05:31.895279"
+  },
+  "93657": {
+    "id": 93657,
+    "name": "Extraordinary You",
+    "original_name": "어쩌다 발견한 하루",
+    "first_air_date": "2019-10-02",
+    "vote_average": 8.0,
+    "poster_path": "/2aOnQZujbBHy0v54bBoPXpweUrm.jpg",
+    "genre_ids": [
+      10765,
+      35,
+      10759
+    ],
+    "cached_at": "2025-11-03T06:23:18.602198"
+  },
+  "304413": {
+    "id": 304413,
+    "name": "Gupi",
+    "original_name": "Gupi",
+    "first_air_date": "2025-10-31",
+    "vote_average": 10.0,
+    "poster_path": null,
+    "genre_ids": [
+      10762
+    ],
+    "cached_at": "2025-11-03T06:23:18.679193"
   }
 }

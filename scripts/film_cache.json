@@ -129395,5 +129395,66 @@
       53
     ],
     "cached_at": "2025-11-03T01:05:29.173692"
+  },
+  "496967": {
+    "id": 496967,
+    "title": "Atlantique",
+    "release_date": "2019-10-02",
+    "vote_average": 6.8,
+    "poster_path": "/6re5NBRLemS5Ysvc60mGUGHz8C6.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      14
+    ],
+    "cached_at": "2025-11-03T06:23:01.279626"
+  },
+  "293863": {
+    "id": 293863,
+    "title": "Adaline - L'eterna giovinezza",
+    "release_date": "2015-04-16",
+    "vote_average": 7.478,
+    "poster_path": "/dehVZaQuRTae4uQnOkQvGX8psgz.jpg",
+    "genre_ids": [
+      10749,
+      14,
+      18
+    ],
+    "cached_at": "2025-11-03T06:23:02.491132"
+  },
+  "627063": {
+    "id": 627063,
+    "title": "Nocturnal",
+    "release_date": "2020-09-18",
+    "vote_average": 5.632,
+    "poster_path": "/e9wWPeLpO3jK1y60GsVTsacBlXE.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-03T06:23:03.851081"
+  },
+  "492613": {
+    "id": 492613,
+    "title": "Un'improbabile amicizia",
+    "release_date": "2019-03-14",
+    "vote_average": 6.719,
+    "poster_path": "/jy2fUs6wkHolFp41nde0WKCR27w.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "cached_at": "2025-11-03T06:23:09.349937"
+  },
+  "592739": {
+    "id": 592739,
+    "title": "Cetto c'è, senzadubbiamente",
+    "release_date": "2019-11-21",
+    "vote_average": 5.328,
+    "poster_path": "/iftgDEhIhgK78BfRvuO7UmtrUz.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-03T06:23:10.526051"
   }
 }
