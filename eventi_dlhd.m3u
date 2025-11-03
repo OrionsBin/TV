@@ -2,13 +2,10 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieasassuolovsgenoa" tvg-name="Soccer | Italy - Serie A : Sassuolo vs Genoa (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassuolo_vs_Genoa.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Sassuolo vs Genoa (19:30)
-https://dlhd.dad/watch.php?id=877
-
 #EXTINF:-1 tvg-id="italyseriecalcionevspropatria" tvg-name="Soccer | Italy - Serie C : Alcione vs Pro Patria (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Alcione_vs_Pro Patria.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Alcione vs Pro Patria (21:30)
 https://dlhd.dad/watch.php?id=7
 
-#EXTINF:-1 tvg-id="italyseriecospitalettovsdolomitibellunesi" tvg-name="Soccer | Italy - Serie C : Ospitaletto vs Dolomiti Bellunesi (21:30)" tvg-logo="https://www.eltron.it/wp-content/uploads/2023/12/01_Immagini_profilo_PV_OSPITALETTO.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ospitaletto vs Dolomiti Bellunesi (21:30)
+#EXTINF:-1 tvg-id="italyseriecospitalettovsdolomitibellunesi" tvg-name="Soccer | Italy - Serie C : Ospitaletto vs Dolomiti Bellunesi (21:30)" tvg-logo="https://www.tuttocampo.it/Web/Images/Teams/200/675840.png?v9" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ospitaletto vs Dolomiti Bellunesi (21:30)
 https://dlhd.dad/watch.php?id=8
 
 #EXTINF:-1 tvg-id="italyseriecvispesarovsjuventusii" tvg-name="Soccer | Italy - Serie C : Vis Pesaro vs Juventus II (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vis Pesaro_vs_Juventus II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Vis Pesaro vs Juventus II (21:30)
@@ -29,12 +26,6 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="englandpremierleaguesunderlandvseverton" tvg-name="Soccer | England - Premier League : Sunderland vs Everton (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sunderland_vs_Everton.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Sunderland vs Everton (22:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="isugrandprixoffigureskatingskatecanadainternational" tvg-name="Ice Skating | ISU Grand Prix of Figure Skating Skate Canada International (19:00)" tvg-logo="https://storage.allsportdb.com/flags/flag-ca.png" group-title="Eventi Live DLHD",Ice Skating | ISU Grand Prix of Figure Skating Skate Canada International (19:00)
+#EXTINF:-1 tvg-id="grandprixcanadaicedancefreeroutinemixed" tvg-name="Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)" tvg-logo="https://greensmarteco.com/wp-content/uploads/2020/07/grand-canyon-national-park-horseshoe-bend-travel-usa.jpg" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)
 https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="grandprixcanadaicedancefreeroutinemixed" tvg-name="Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)" tvg-logo="http://static1.squarespace.com/static/5bfc15a1ee1759eea4540678/t/66f49b8761ed436842482a56/1727306631498/GrandRnd_2024logo_86thsm.png?format=1500w" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="footballlaziovscagliariitalyseriea" tvg-name="Football | Football : Lazio vs Cagliari - Italy Serie A (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Cagliari - Italy Serie A.png" group-title="Eventi Live DLHD",Football | Football : Lazio vs Cagliari - Italy Serie A (21:45)
-https://dlhd.dad/watch.php?id=6909036e17dd9cc4835231c2%7C47
 
