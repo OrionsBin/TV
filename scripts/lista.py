@@ -71,7 +71,6 @@ def merger_playlist():
     url_dlhd = os.path.join(output_dir, "dlhd.m3u")
     url_eventi = os.path.join(output_dir, "eventi_dlhd.m3u")
     url_sportsonline = os.path.join(output_dir, "sportsonline.m3u")
-    url_streamed = os.path.join(output_dir, "streamed.m3u")
     url6 = "https://raw.githubusercontent.com/Brenders/Pluto-TV-Italia-M3U/main/PlutoItaly.m3u"
     
     # Funzione per scaricare o leggere una playlist
@@ -115,11 +114,10 @@ def merger_playlist():
         playlist_eventi = ""
 
     playlist_sportsonline = download_playlist(url_sportsonline)
-    playlist_streamed = download_playlist(url_streamed)
     playlist_pluto = download_playlist(url6)
     
     # 3. Unisci tutte le playlist (con i canali italiani ordinati all'inizio)
-    lista = sorted_italian_playlist + "\n" + playlist_eventi + "\n" + playlist_sportsonline + "\n" + playlist_streamed + "\n" + playlist_pluto
+    lista = sorted_italian_playlist + "\n" + playlist_eventi + "\n" + playlist_sportsonline + "\n" + playlist_pluto
     
     # Aggiungi intestazione EPG
     lista = f'#EXTM3U url-tvg="https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/refs/heads/main/epg.xml"\n' + lista
@@ -180,7 +178,6 @@ def merger_playlistworld():
     url_dlhd = os.path.join(output_dir, "dlhd.m3u")
     url_eventi = os.path.join(output_dir, "eventi_dlhd.m3u")
     url_sportsonline = os.path.join(output_dir, "sportsonline.m3u")
-    url_streamed = os.path.join(output_dir, "streamed.m3u")
     url5 = "https://raw.githubusercontent.com/Brenders/Pluto-TV-Italia-M3U/main/PlutoItaly.m3u"
     url_world = os.path.join(output_dir, "world.m3u")
     
@@ -225,11 +222,10 @@ def merger_playlistworld():
         playlist_eventi = ""
 
     playlist_sportsonline = download_playlist(url_sportsonline)
-    playlist_streamed = download_playlist(url_streamed)
     playlist_pluto = download_playlist(url5)
     playlist_world = download_playlist(url_world, exclude_group_title="Italy")
     # 3. Unisci tutte le playlist
-    lista = sorted_italian_playlist + "\n" + playlist_eventi + "\n" + playlist_sportsonline + "\n" + playlist_streamed + "\n" + playlist_pluto + "\n" + playlist_world
+    lista = sorted_italian_playlist + "\n" + playlist_eventi + "\n" + playlist_sportsonline + "\n" + playlist_pluto + "\n" + playlist_world
     
     # Aggiungi intestazione EPG
     lista = f'#EXTM3U url-tvg="https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/refs/heads/main/epg.xml"\n' + lista
