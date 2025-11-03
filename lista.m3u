@@ -15,6 +15,8 @@ https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
 https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
+https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
 https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.auroraarte.it/wp-content/uploads/2023/11/AURORA-ARTE-brand.png" group-title="Documentari",AURORA ARTE
@@ -143,6 +145,8 @@ https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
+#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
+https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 https://dlhd.dad/watch.php?id=854
 
@@ -205,8 +209,6 @@ https://vavoo.to/vavoo-iptv/play/3471319012d308ec0dc636
 https://vavoo.to/vavoo-iptv/play/1087345241c8751e395263
 #EXTINF:-1 tvg-id="pescaecaccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",PESCA E CACCIA
 https://vavoo.to/vavoo-iptv/play/312451299385241b4e7078
-#EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
-https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV (1)
 https://vavoo.to/vavoo-iptv/play/530658045774685c88ed8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV (2)
@@ -245,8 +247,6 @@ https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
@@ -273,6 +273,8 @@ https://vavoo.to/vavoo-iptv/play/441082840c9ecc6bf454e
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 
 # NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
+https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
@@ -345,16 +347,12 @@ https://dlhd.dad/watch.php?id=861
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION (D)
 https://dlhd.dad/watch.php?id=859
-#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY
-https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY (D)
 https://dlhd.dad/watch.php?id=862
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA (D)
 https://dlhd.dad/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
-https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://dlhd.dad/watch.php?id=866
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -367,8 +365,6 @@ https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 https://dlhd.dad/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://dlhd.dad/watch.php?id=860
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -479,14 +475,18 @@ https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
 https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.abruzzi.tv/logo-abruzzi.png" group-title="Altro",TELE ABRUZZO
 https://vavoo.to/vavoo-iptv/play/16683935829997b8a7bc92
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Telechiara-logo.png" group-title="Altro",TELE CHIARA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Telechiara-logo.png" group-title="Altro",TELE CHIARA (1)
 https://vavoo.to/vavoo-iptv/play/2487986216af30aedb116a
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Telechiara-logo.png" group-title="Altro",TELE CHIARA (2)
+https://vavoo.to/vavoo-iptv/play/2521825076452ac13ce197
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telefriuli.it/wp-content/uploads/2022/11/logo_telefriuli_positivo.png" group-title="Altro",TELE FRIULI
 https://vavoo.to/vavoo-iptv/play/35518823447060ba68f520
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleliguriasud.it/sito/wp-content/uploads/2024/10/LOGO-RETINA.png" group-title="Altro",TELE LIGURIA SUD
 https://vavoo.to/vavoo-iptv/play/87479718111853618b3cd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.milanopavia.tv/wp-content/uploads/2020/01/logoMilanoPaviaTV.png" group-title="Altro",TELE PAVIA
 https://vavoo.to/vavoo-iptv/play/6164833177424547eff1f
+#EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/images/teleromagna-logo.png" group-title="Altro",TELE ROMAGNA
+https://vavoo.to/vavoo-iptv/play/1294463772435c5239e44
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telesirio.it/images/logo.png" group-title="Altro",TELE SIRIO
 https://vavoo.to/vavoo-iptv/play/21884692197ee0a9ba39f6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png" group-title="Altro",TELE TRICOLORE
@@ -631,17 +631,17 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="englandpremierleaguesunderlandvseverton" tvg-name="Soccer | England - Premier League : Sunderland vs Everton (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sunderland_vs_Everton.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Sunderland vs Everton (22:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="isugrandprixoffigureskatingskatecanadainternational" tvg-name="Ice Skating | ISU Grand Prix of Figure Skating Skate Canada International (19:00)" tvg-logo="https://guidesblitz.files.wordpress.com/2022/10/isu130.png" group-title="Eventi Live DLHD",Ice Skating | ISU Grand Prix of Figure Skating Skate Canada International (19:00)
+#EXTINF:-1 tvg-id="isugrandprixoffigureskatingskatecanadainternational" tvg-name="Ice Skating | ISU Grand Prix of Figure Skating Skate Canada International (19:00)" tvg-logo="https://storage.allsportdb.com/flags/flag-ca.png" group-title="Eventi Live DLHD",Ice Skating | ISU Grand Prix of Figure Skating Skate Canada International (19:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="grandprixcanadaicedancefreeroutinemixed" tvg-name="Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)" tvg-logo="https://www.visitgrandcanyon.com/wp-content/uploads/2023/12/DWN-Social-Share-Grand-Canyon-1200x675-1.png?_t=1759957474" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)
+#EXTINF:-1 tvg-id="grandprixcanadaicedancefreeroutinemixed" tvg-name="Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)" tvg-logo="https://static.wikia.nocookie.net/fortnite/images/c/cc/Grand_Glacier_-_Location_-_Fortnite.png/revision/latest/scale-to-width-down/1200?cb=20231204170439" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Canada Ice Dance | Free Routine | Mixed (20:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="footballsassuolovsgenoaitalyseriea" tvg-name="Football | Football : Sassuolo vs Genoa - Italy Serie A (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassuolo_vs_Genoa - Italy Serie A.png" group-title="Eventi Live DLHD",Football | Football : Sassuolo vs Genoa - Italy Serie A (19:30)
-https://dlhd.dad/watch.php?id=6908cfaf55d8806db63101ba%7C47
+https://dlhd.dad/watch.php?id=6908ea93c40bcd0671dc9051%7C47
 
 #EXTINF:-1 tvg-id="footballlaziovscagliariitalyseriea" tvg-name="Football | Football : Lazio vs Cagliari - Italy Serie A (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Cagliari - Italy Serie A.png" group-title="Eventi Live DLHD",Football | Football : Lazio vs Cagliari - Italy Serie A (21:45)
-https://dlhd.dad/watch.php?id=6908cfaf55d8806db63101bb%7C47
+https://dlhd.dad/watch.php?id=6908ea93c40bcd0671dc9052%7C47
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Sassuolo x Genoa 18:30
