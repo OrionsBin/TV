@@ -1859,9 +1859,6 @@ def schedule_extractor():
     
                     print("Conversione HTML della programmazione principale in formato JSON...")
                     json_data = html_to_json(schedule_content)
-
-                    print("Aggiunta della programmazione da 'Extra Schedule'...")
-                    json_data = html_to_json_extra_schedule(schedule_content, json_data)
     
                     with open(json_output, "w", encoding="utf-8") as f:
                         json.dump(json_data, f, indent=4)
