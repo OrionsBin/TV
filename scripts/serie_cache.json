@@ -58575,5 +58575,124 @@
       10767
     ],
     "cached_at": "2025-11-11T06:23:11.954120"
+  },
+  "298706": {
+    "id": 298706,
+    "name": "ちょっとだけエスパー",
+    "original_name": "ちょっとだけエスパー",
+    "first_air_date": "2025-10-21",
+    "vote_average": 0.0,
+    "poster_path": "/8JGnyON94mMX2iW09eJJuJ6nZAB.jpg",
+    "genre_ids": [
+      10765
+    ],
+    "cached_at": "2025-11-12T06:23:08.366337"
+  },
+  "81704": {
+    "id": 81704,
+    "name": "Magic for Humans",
+    "original_name": "Magic for Humans",
+    "first_air_date": "2018-08-17",
+    "vote_average": 6.4,
+    "poster_path": "/vPdb9qbALBzMETT8rdBLyGdSEe2.jpg",
+    "genre_ids": [
+      35,
+      10764
+    ],
+    "cached_at": "2025-11-12T06:23:08.424471"
+  },
+  "82102": {
+    "id": 82102,
+    "name": "마성의 기쁨",
+    "original_name": "마성의 기쁨",
+    "first_air_date": "2018-09-05",
+    "vote_average": 7.875,
+    "poster_path": "/mW29g399VZ63HmqkG1smGbyfUyB.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10765
+    ],
+    "cached_at": "2025-11-12T06:23:08.466124"
+  },
+  "304530": {
+    "id": 304530,
+    "name": "Fortnite x The Simpsons",
+    "original_name": "Fortnite x The Simpsons",
+    "first_air_date": "2025-11-01",
+    "vote_average": 7.6,
+    "poster_path": "/lr3gn5BN80kc2vkmTOlPuHZlLP.jpg",
+    "genre_ids": [
+      35,
+      16,
+      10765,
+      10759
+    ],
+    "cached_at": "2025-11-12T06:23:08.499527"
+  },
+  "81686": {
+    "id": 81686,
+    "name": "Pantano",
+    "original_name": "Rojst",
+    "first_air_date": "2018-08-19",
+    "vote_average": 6.8,
+    "poster_path": "/mxMUAoCJ4ofPi0p8UkdV5XwLVOw.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "cached_at": "2025-11-12T06:23:08.502809"
+  },
+  "202097": {
+    "id": 202097,
+    "name": "Accused",
+    "original_name": "Accused",
+    "first_air_date": "2023-01-22",
+    "vote_average": 7.1,
+    "poster_path": "/w0zeTmejqPqVw07jVDkeQqJvxqq.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2025-11-12T06:23:08.537361"
+  },
+  "77400": {
+    "id": 77400,
+    "name": "The Innocents",
+    "original_name": "The Innocents",
+    "first_air_date": "2018-08-24",
+    "vote_average": 5.7,
+    "poster_path": "/52pOyaCF46a1EiuUEp9QdFsxlYU.jpg",
+    "genre_ids": [
+      10765,
+      18
+    ],
+    "cached_at": "2025-11-12T06:23:08.571224"
+  },
+  "91252": {
+    "id": 91252,
+    "name": "Daniel Sloss: Live Shows",
+    "original_name": "Daniel Sloss: Live Shows",
+    "first_air_date": "2018-09-11",
+    "vote_average": 8.0,
+    "poster_path": "/lQYap35AzK1i3wZC3xIgMTOdpUA.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-12T06:23:08.611300"
+  },
+  "502": {
+    "id": 502,
+    "name": "Sesamo apriti!",
+    "original_name": "Sesame Street",
+    "first_air_date": "1969-11-10",
+    "vote_average": 7.1,
+    "poster_path": "/wV4mY6juLwvLZEWV0f6Suku5yFC.jpg",
+    "genre_ids": [
+      10762,
+      35
+    ],
+    "cached_at": "2025-11-12T06:23:08.854919"
   }
 }
