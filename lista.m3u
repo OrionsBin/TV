@@ -13,8 +13,6 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
-https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -139,6 +137,8 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -247,6 +247,8 @@ https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
@@ -289,8 +291,6 @@ https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
 https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
-#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
-https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -329,6 +329,8 @@ https://vavoo.to/vavoo-iptv/play/3799362189218b541a9c76
 https://vavoo.to/vavoo-iptv/play/179187969291f776663d1e
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtv-san-marino-it.png" group-title="Altro",RTV SAN MARINO
 https://vavoo.to/vavoo-iptv/play/2343767125eb4977361e91
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
+https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (1)
 https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (2)
@@ -617,25 +619,19 @@ https://dlhd.dad/watch.php?id=110
 #EXTINF:-1 tvg-id="italyseriecforlìvscampobasso" tvg-name="Soccer | Italy - Serie C : Forlì vs Campobasso (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Forlì_vs_Campobasso.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Forlì vs Campobasso (21:30)
 https://dlhd.dad/watch.php?id=151
 
-#EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (15:00)" tvg-logo="https://www.researchgate.net/profile/Man-Liu-16/publication/10940510/figure/fig1/AS:394581288996868@1471086918922/Structures-of-ATP-and-ATP-analogues.png" group-title="Eventi Live DLHD",Tennis | ATP Finals Singles Round Robin (15:00)
+#EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (15:00)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20230320112807/ADP-vs-ATP.png" group-title="Eventi Live DLHD",Tennis | ATP Finals Singles Round Robin (15:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (21:30)" tvg-logo="https://www.researchgate.net/profile/Man-Liu-16/publication/10940510/figure/fig1/AS:394581288996868@1471086918922/Structures-of-ATP-and-ATP-analogues.png" group-title="Eventi Live DLHD",Tennis | ATP Finals Singles Round Robin (21:30)
+#EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (21:30)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20230320112807/ADP-vs-ATP.png" group-title="Eventi Live DLHD",Tennis | ATP Finals Singles Round Robin (21:30)
 https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="moto3valenciagrandprixfreepractice" tvg-name="Motorsport | Moto3 : Valencia Grand Prix Free Practice (09:55)" tvg-logo="https://latestlogo.com/wp-content/uploads/2024/11/moto3-logo.svg" group-title="Eventi Live DLHD",Motorsport | Moto3 : Valencia Grand Prix Free Practice (09:55)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="motogpvalenciagrandprixfreepractice" tvg-name="Motorsport | MotoGP : Valencia Grand Prix Free Practice (10:00)" tvg-logo="https://images.seeklogo.com/logo-png/55/1/new-motogp-2025-logo-png_seeklogo-557249.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Valencia Grand Prix Free Practice (10:00)
-https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="moto2valenciagrandprixfreepractice" tvg-name="Motorsport | Moto2 : Valencia Grand Prix Free Practice (10:45)" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/289/666/original/zoom-logo-transparent-free-png.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Valencia Grand Prix Free Practice (10:45)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto3valenciagrandprixpractice1" tvg-name="Motorsport | Moto3 : Valencia Grand Prix Practice 1 (14:10)" tvg-logo="https://latestlogo.com/wp-content/uploads/2024/11/moto3-logo.svg" group-title="Eventi Live DLHD",Motorsport | Moto3 : Valencia Grand Prix Practice 1 (14:10)
+#EXTINF:-1 tvg-id="moto3valenciagrandprixpractice1" tvg-name="Motorsport | Moto3 : Valencia Grand Prix Practice 1 (14:10)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Valencia Grand Prix Practice 1 (14:10)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="motogpvalenciagrandprixpractice1" tvg-name="Motorsport | MotoGP : Valencia Grand Prix Practice 1 (14:15)" tvg-logo="https://images.seeklogo.com/logo-png/55/1/new-motogp-2025-logo-png_seeklogo-557249.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Valencia Grand Prix Practice 1 (14:15)
+#EXTINF:-1 tvg-id="motogpvalenciagrandprixpractice1" tvg-name="Motorsport | MotoGP : Valencia Grand Prix Practice 1 (14:15)" tvg-logo="https://wlassets.aprilia.com/wlassets/aprilia/master/Aprilia_World/Racing/moto-gp-2023/news/motogp-lemans-sunday/2023-05-GP-France-51131_heroheading/original/2023+05+GP+France+51131_heroheading.png?1684075178866" group-title="Eventi Live DLHD",Motorsport | MotoGP : Valencia Grand Prix Practice 1 (14:15)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="moto2valenciagrandprixpractice1" tvg-name="Motorsport | Moto2 : Valencia Grand Prix Practice 1 (15:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/289/666/original/zoom-logo-transparent-free-png.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Valencia Grand Prix Practice 1 (15:00)
@@ -644,14 +640,11 @@ https://dlhd.dad/watch.php?id=575
 #EXTINF:-1 tvg-id="seriea2pesarovsscafati10thround" tvg-name="Basketball | Serie A2 : Pesaro vs Scafati (10th round) (17:50)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pesaro_vs_Scafati (10th round).png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Pesaro vs Scafati (10th round) (17:50)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="2025worldcupathensmixedteamtrap" tvg-name="Shooting | 2025 World Cup - Athens: Mixed Team Trap (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240204/original/pngtree-2025-minimalist-calendar-vector-png-image_14235147.png" group-title="Eventi Live DLHD",Shooting | 2025 World Cup - Athens: Mixed Team Trap (15:00)
+#EXTINF:-1 tvg-id="2025worldcupathensmixedteamtrap" tvg-name="Shooting | 2025 World Cup - Athens: Mixed Team Trap (15:00)" tvg-logo="https://suncatcherstudio.com/uploads/printables/calendars/year/2025-yearly/pdf-png/printable-calendar-2025-dddddd-010101.png" group-title="Eventi Live DLHD",Shooting | 2025 World Cup - Athens: Mixed Team Trap (15:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="premierpadeldubait2025mensquarterfinal2" tvg-name="Squash | Premier Padel. Dubai (T2025): Men's Quarter-Final 2 (18:00)" tvg-logo="https://resources.premierleague.com/premierleague/photo/2022/08/04/5d9a2e39-743d-4e90-ade3-58aaf3a2d5bd/MicrosoftTeams-image.png" group-title="Eventi Live DLHD",Squash | Premier Padel. Dubai (T2025): Men's Quarter-Final 2 (18:00)
+#EXTINF:-1 tvg-id="premierpadeldubait2025mensquarterfinal2" tvg-name="Squash | Premier Padel. Dubai (T2025): Men's Quarter-Final 2 (18:00)" tvg-logo="https://thumbor.prod.vidiocdn.com/qFyTiTNfIoLRu-9avia4BwOkODE=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/616/premier-padel-119e53.png" group-title="Eventi Live DLHD",Squash | Premier Padel. Dubai (T2025): Men's Quarter-Final 2 (18:00)
 https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="t100triathlonworldtourdubaimenandwomen" tvg-name="Triathlon | T100 Triathlon World Tour | Dubai Men and Women (09:15)" tvg-logo="https://content.protriathletes.org/content/images/2025/04/f74dafd8-5be0-408e-a429-a56b4985b235.png" group-title="Eventi Live DLHD",Triathlon | T100 Triathlon World Tour | Dubai Men and Women (09:15)
-https://dlhd.dad/watch.php?id=879
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Morocco x Mozambique 20:00
