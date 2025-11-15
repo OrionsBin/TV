@@ -38,6 +38,7 @@ jobs:
           BASE_URL: ${{ secrets.BASE_URL }}
           BASE_URL2: ${{ secrets.BASE_URL2 }}
           BASE_URL3: ${{ secrets.BASE_URL3 }}
+          FLARESOLVERR_URL: ${{ secrets.FLARESOLVERR_URL }}
       
       # Rimosso il 'git pull' manuale. L'azione di auto-commit gestisce già il fetch
       # in modo più sicuro, riducendo il rischio di conflitti di merge.
