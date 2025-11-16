@@ -134081,5 +134081,131 @@
       18
     ],
     "cached_at": "2025-11-15T06:20:56.985193"
+  },
+  "413990": {
+    "id": 413990,
+    "title": "Pottersville",
+    "release_date": "2017-11-10",
+    "vote_average": 4.891,
+    "poster_path": "/tQneEIQWTcwnt7R6FGJJDXPGiCJ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-16T06:20:43.773497"
+  },
+  "563710": {
+    "id": 563710,
+    "title": "Il Natale di Angela",
+    "release_date": "2017-12-02",
+    "vote_average": 6.8,
+    "poster_path": "/eS97EXVXASlFY7llQWuhpwWTaBn.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "cached_at": "2025-11-16T06:20:44.000946"
+  },
+  "423646": {
+    "id": 423646,
+    "title": "Oltre la notte",
+    "release_date": "2017-11-23",
+    "vote_average": 6.903,
+    "poster_path": "/m0M3e9gtzfjIlsgSclO2xwXZC7d.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2025-11-16T06:20:46.635205"
+  },
+  "324562": {
+    "id": 324562,
+    "title": "I giorni di Palo Verde",
+    "release_date": "2017-12-01",
+    "vote_average": 5.4,
+    "poster_path": "/6MSQvG7OyfLdZkIyPxQBcuqoSlY.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-16T06:20:46.767370"
+  },
+  "484886": {
+    "id": 484886,
+    "title": "Singularity - L'attacco dei robot",
+    "release_date": "2017-11-24",
+    "vote_average": 3.646,
+    "poster_path": "/ywvdrCyXoGyDswk0yAbdwjbPTuK.jpg",
+    "genre_ids": [
+      878
+    ],
+    "cached_at": "2025-11-16T06:20:46.914247"
+  },
+  "75387": {
+    "id": 75387,
+    "title": "Alonzo Bodden: Tall, Dark and Funny",
+    "release_date": "2006-02-14",
+    "vote_average": 6.5,
+    "poster_path": "/v87akAIJRgSDjRRKgPoJyfuKSCZ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-16T06:20:48.028547"
+  },
+  "444539": {
+    "id": 444539,
+    "title": "La casa dei libri",
+    "release_date": "2017-11-10",
+    "vote_average": 6.504,
+    "poster_path": "/uGKBFz8MbPf5mARhLfmQhK2t5EP.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-16T06:20:49.697226"
+  },
+  "75310": {
+    "id": 75310,
+    "title": "UFC: Ultimate Matt Hughes",
+    "release_date": "2011-09-20",
+    "vote_average": 0.0,
+    "poster_path": null,
+    "genre_ids": [],
+    "cached_at": "2025-11-16T06:20:50.135423"
+  },
+  "487380": {
+    "id": 487380,
+    "title": "La casa di famiglia",
+    "release_date": "2017-11-16",
+    "vote_average": 6.247,
+    "poster_path": "/7uZ5tVS6PFPEYsv9IYIjKKksYmY.jpg",
+    "genre_ids": [
+      10751,
+      35
+    ],
+    "cached_at": "2025-11-16T06:20:51.065402"
+  },
+  "488372": {
+    "id": 488372,
+    "title": "역모 - 반란의 시대",
+    "release_date": "2017-11-23",
+    "vote_average": 6.1,
+    "poster_path": "/xW7dr2u4EXsEZRkn3zlxJOTGlEN.jpg",
+    "genre_ids": [
+      28,
+      18,
+      36
+    ],
+    "cached_at": "2025-11-16T06:20:54.052019"
+  },
+  "72633": {
+    "id": 72633,
+    "title": "Третья молодость",
+    "release_date": "1965-11-16",
+    "vote_average": 3.0,
+    "poster_path": "/fXEDt78k27oEZ2qa2IqLRFvq0MY.jpg",
+    "genre_ids": [
+      36,
+      18,
+      10402
+    ],
+    "cached_at": "2025-11-16T06:20:54.409553"
   }
 }

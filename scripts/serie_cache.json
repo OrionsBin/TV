@@ -59206,5 +59206,67 @@
       10764
     ],
     "cached_at": "2025-11-15T06:21:00.876366"
+  },
+  "75387": {
+    "id": 75387,
+    "name": "A Love So Beautiful",
+    "original_name": "致我们单纯的小美好",
+    "first_air_date": "2017-11-09",
+    "vote_average": 7.74,
+    "poster_path": "/tNF1SjnH9hEX8EUfosMfHBWNeVV.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-16T06:21:00.767955"
+  },
+  "75116": {
+    "id": 75116,
+    "name": "Stretch Armstrong e i Flex Fighters",
+    "original_name": "Stretch Armstrong & the Flex Fighters",
+    "first_air_date": "2017-11-16",
+    "vote_average": 6.6,
+    "poster_path": "/iTmsfkHkPleoWxcfwTtg3QkSiXf.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "cached_at": "2025-11-16T06:21:00.793015"
+  },
+  "72633": {
+    "id": 72633,
+    "name": "She's Gotta Have It",
+    "original_name": "She's Gotta Have It",
+    "first_air_date": "2017-11-23",
+    "vote_average": 6.3,
+    "poster_path": "/fcbZ94T3eySDCMAlVfe3s69LiDJ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-16T06:21:00.841293"
+  },
+  "76605": {
+    "id": 76605,
+    "name": "Top Wing",
+    "original_name": "Top Wing",
+    "first_air_date": "2017-11-06",
+    "vote_average": 7.7,
+    "poster_path": "/6j7JKeuYkBgUWPuqCmqoLOLI7ug.jpg",
+    "genre_ids": [
+      10762
+    ],
+    "cached_at": "2025-11-16T06:21:00.913690"
+  },
+  "75310": {
+    "id": 75310,
+    "name": "저글러스",
+    "original_name": "저글러스",
+    "first_air_date": "2017-12-04",
+    "vote_average": 7.2,
+    "poster_path": "/kyEtTCAPZMBnkR8IFkJIaHyGQFS.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-16T06:21:01.138376"
   }
 }
