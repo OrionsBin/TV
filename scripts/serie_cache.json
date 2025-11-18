@@ -59321,5 +59321,150 @@
       99
     ],
     "cached_at": "2025-11-17T06:23:35.128556"
+  },
+  "72140": {
+    "id": 72140,
+    "name": "Frankie Boyle's New World Order",
+    "original_name": "Frankie Boyle's New World Order",
+    "first_air_date": "2017-06-08",
+    "vote_average": 6.5,
+    "poster_path": "/g5fuPFo7YSJH0AT5hqyO3ATXAQ6.jpg",
+    "genre_ids": [
+      10763,
+      35
+    ],
+    "cached_at": "2025-11-18T06:22:31.641010"
+  },
+  "72922": {
+    "id": 72922,
+    "name": "双世宠妃",
+    "original_name": "双世宠妃",
+    "first_air_date": "2017-07-10",
+    "vote_average": 6.1,
+    "poster_path": "/h5bFl3cTPWWAF8AhwkAefqR7Kxo.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-18T06:22:31.669936"
+  },
+  "71024": {
+    "id": 71024,
+    "name": "Castlevania",
+    "original_name": "Castlevania",
+    "first_air_date": "2017-07-07",
+    "vote_average": 8.255,
+    "poster_path": "/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",
+    "genre_ids": [
+      16,
+      10765,
+      18
+    ],
+    "cached_at": "2025-11-18T06:22:31.711293"
+  },
+  "80410": {
+    "id": 80410,
+    "name": "Sacrificio d’amore",
+    "original_name": "Sacrificio d’amore",
+    "first_air_date": "2017-06-25",
+    "vote_average": 1.0,
+    "poster_path": "/p0rIEEVtNa6dGfC8bwlkygK4B8S.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-18T06:22:31.739063"
+  },
+  "72671": {
+    "id": 72671,
+    "name": "The Standups",
+    "original_name": "The Standups",
+    "first_air_date": "2017-07-04",
+    "vote_average": 5.7,
+    "poster_path": "/abXFOhCuAJVzpmTwYbC3IKaWTX1.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-18T06:22:31.794072"
+  },
+  "73543": {
+    "id": 73543,
+    "name": "Black Love",
+    "original_name": "Black Love",
+    "first_air_date": "2017-08-29",
+    "vote_average": 6.0,
+    "poster_path": "/nLbdqz4hY8HvyhmnFHBbOnKbKTS.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-18T06:22:31.846268"
+  },
+  "72763": {
+    "id": 72763,
+    "name": "효리네 민박",
+    "original_name": "효리네 민박",
+    "first_air_date": "2017-06-25",
+    "vote_average": 8.4,
+    "poster_path": "/gRxSXyayyK8FSSGON1wio0bVyND.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-11-18T06:22:31.856315"
+  },
+  "128708": {
+    "id": 128708,
+    "name": "קארפול קריוקי",
+    "original_name": "קארפול קריוקי",
+    "first_air_date": "2017-05-17",
+    "vote_average": 0.0,
+    "poster_path": "/tJ84iXRhBEq6l8VaQKcF5FkEyN1.jpg",
+    "genre_ids": [],
+    "cached_at": "2025-11-18T06:22:31.922841"
+  },
+  "73132": {
+    "id": 73132,
+    "name": "Wet Hot American Summer: Ten Years Later",
+    "original_name": "Wet Hot American Summer: Ten Years Later",
+    "first_air_date": "2017-08-04",
+    "vote_average": 6.439,
+    "poster_path": "/cpztqCrGNEjBQYlW0behUYMVs1t.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-18T06:22:31.946391"
+  },
+  "73453": {
+    "id": 73453,
+    "name": "Argon",
+    "original_name": "아르곤",
+    "first_air_date": "2017-09-04",
+    "vote_average": 7.5,
+    "poster_path": "/10owHXs2WFV5AlWFGGeq3U3nEzX.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-18T06:22:31.990688"
+  },
+  "293391": {
+    "id": 293391,
+    "name": "吾岸",
+    "original_name": "吾岸",
+    "first_air_date": "2025-11-15",
+    "vote_average": 9.0,
+    "poster_path": "/1zJGcswwb9YTDNcNBNLEc0R0xtz.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-18T06:22:31.997952"
+  },
+  "73807": {
+    "id": 73807,
+    "name": "Cacciatori di incendi",
+    "original_name": "Fire Chasers",
+    "first_air_date": "2017-09-08",
+    "vote_average": 5.7,
+    "poster_path": "/dgdrKsKNBtjpkeSL5jLjZLr8aPV.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-18T06:22:32.090256"
   }
 }
