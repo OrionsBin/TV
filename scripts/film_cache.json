@@ -135201,5 +135201,44 @@
       35
     ],
     "cached_at": "2025-11-18T06:22:26.071248"
+  },
+  "1153222": {
+    "id": 1153222,
+    "title": "Lego Disney Princess: The Castle Quest",
+    "release_date": "2023-08-18",
+    "vote_average": 6.449,
+    "poster_path": "/q17tXNROOslj7uCGicKNlIf9Rx6.jpg",
+    "genre_ids": [
+      16
+    ],
+    "cached_at": "2025-11-19T06:22:02.518357"
+  },
+  "1530875": {
+    "id": 1530875,
+    "title": "Tutti i diavoli sono qui",
+    "release_date": "2025-09-25",
+    "vote_average": 6.03,
+    "poster_path": "/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ],
+    "cached_at": "2025-11-19T06:22:03.445695"
+  },
+  "1515395": {
+    "id": 1515395,
+    "title": "Lego Disney Princess: Villains Unite",
+    "release_date": "2025-08-24",
+    "vote_average": 7.75,
+    "poster_path": "/ajcRSuv1rYbrDxnlNN5xx5H44Ft.jpg",
+    "genre_ids": [
+      16,
+      35,
+      14,
+      12,
+      10751
+    ],
+    "cached_at": "2025-11-19T06:22:03.957544"
   }
 }
