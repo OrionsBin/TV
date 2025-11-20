@@ -1,3 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="DavisCupWorldGroupTeamsSpainvsCzechRepublic">
+    <display-name>Davis Cup World Group Teams : Spain vs Czech Republic</display-name>
+  </channel>
+  <programme start="20251120000000 +0200" stop="20251120120000 +0200" channel="DavisCupWorldGroupTeamsSpainvsCzechRepublic">
+    <title lang="it">Inizia alle 12:00.</title>
+    <desc lang="it">Davis Cup World Group Teams : Spain vs Czech Republic.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251120120000 +0200" stop="20251120140000 +0200" channel="DavisCupWorldGroupTeamsSpainvsCzechRepublic">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Davis Cup World Group Teams : Spain vs Czech Republic</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="DavisCupWorldGroupTeamsArgentinavsGermany">
+    <display-name>Davis Cup World Group Teams : Argentina vs Germany</display-name>
+  </channel>
+  <programme start="20251120000000 +0200" stop="20251120190000 +0200" channel="DavisCupWorldGroupTeamsArgentinavsGermany">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Davis Cup World Group Teams : Argentina vs Germany.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251120190000 +0200" stop="20251120210000 +0200" channel="DavisCupWorldGroupTeamsArgentinavsGermany">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Davis Cup World Group Teams : Argentina vs Germany</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="RiyadhSnookerChampionshipKyrenWilsonvsNeilRobertson">
+    <display-name>Riyadh Snooker Championship : Kyren Wilson vs Neil Robertson</display-name>
+  </channel>
+  <programme start="20251120000000 +0200" stop="20251120170000 +0200" channel="RiyadhSnookerChampionshipKyrenWilsonvsNeilRobertson">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">Riyadh Snooker Championship : Kyren Wilson vs Neil Robertson.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251120170000 +0200" stop="20251120190000 +0200" channel="RiyadhSnookerChampionshipKyrenWilsonvsNeilRobertson">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Riyadh Snooker Championship : Kyren Wilson vs Neil Robertson</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="RiyadhSnookerChampionshipJuddTrumpvsMarkWilliams">
+    <display-name>Riyadh Snooker Championship : Judd Trump vs Mark Williams</display-name>
+  </channel>
+  <programme start="20251120000000 +0200" stop="20251120220000 +0200" channel="RiyadhSnookerChampionshipJuddTrumpvsMarkWilliams">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Riyadh Snooker Championship : Judd Trump vs Mark Williams.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251120220000 +0200" stop="20251121000000 +0200" channel="RiyadhSnookerChampionshipJuddTrumpvsMarkWilliams">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Riyadh Snooker Championship : Judd Trump vs Mark Williams</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="JumpingPragueGlobalChampionsLeagueQuarterFinal">
+    <display-name>Jumping | Prague Global Champions League | Quarter-Final</display-name>
+  </channel>
+  <programme start="20251120000000 +0200" stop="20251120220000 +0200" channel="JumpingPragueGlobalChampionsLeagueQuarterFinal">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Jumping | Prague Global Champions League | Quarter-Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251120220000 +0200" stop="20251121000000 +0200" channel="JumpingPragueGlobalChampionsLeagueQuarterFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Jumping | Prague Global Champions League | Quarter-Final</desc>
+    <category lang="it">Equestrian</category>
+  </programme>
 </tv>
