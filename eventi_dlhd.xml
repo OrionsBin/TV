@@ -101,19 +101,6 @@
     <desc lang="it">Jumping | Prague Global Champions League | Semi-Final</desc>
     <category lang="it">Equestrian</category>
   </programme>
-  <channel id="GrandPrixFinlandiaShortProgramFemale">
-    <display-name>Grand Prix | Finlandia Short Program | Female</display-name>
-  </channel>
-  <programme start="20251121000000 +0200" stop="20251121183000 +0200" channel="GrandPrixFinlandiaShortProgramFemale">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Grand Prix | Finlandia Short Program | Female.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251121183000 +0200" stop="20251121203000 +0200" channel="GrandPrixFinlandiaShortProgramFemale">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Grand Prix | Finlandia Short Program | Female</desc>
-    <category lang="it">Ice Skating</category>
-  </programme>
   <channel id="GFigureSkatingFinlandiaTrophyrhythmicdance">
     <display-name>GFigure Skating: Finlandia Trophy rhythmic dance</display-name>
   </channel>
