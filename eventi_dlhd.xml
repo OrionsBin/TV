@@ -277,19 +277,6 @@
     <desc lang="it">Italy - Serie A : Napoli vs Atalanta</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="DavisCupFinalsSemifinal2">
-    <display-name>Davis Cup Finals Semifinal 2</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122140000 +0200" channel="DavisCupFinalsSemifinal2">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Davis Cup Finals Semifinal 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122140000 +0200" stop="20251122160000 +0200" channel="DavisCupFinalsSemifinal2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Davis Cup Finals Semifinal 2</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="DavisCupT2025Semifinal2Singles2">
     <display-name>Davis Cup (T2025): Semifinal 2. Singles 2</display-name>
   </channel>
@@ -368,19 +355,6 @@
     <desc lang="it">Global Champions Tour | Event 17 Jumping | Prague</desc>
     <category lang="it">Equestrian</category>
   </programme>
-  <channel id="GrandPrixFinlandiaMixedpairsFreeroutine">
-    <display-name>Grand Prix | Finlandia Mixed pairs | Free routine</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122133000 +0200" channel="GrandPrixFinlandiaMixedpairsFreeroutine">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Grand Prix | Finlandia Mixed pairs | Free routine.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122133000 +0200" stop="20251122153000 +0200" channel="GrandPrixFinlandiaMixedpairsFreeroutine">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Grand Prix | Finlandia Mixed pairs | Free routine</desc>
-    <category lang="it">Ice Skating</category>
-  </programme>
   <channel id="WomenFreeProgramGrandPrixFinland">
     <display-name>Women | Free Program Grand Prix | Finland</display-name>
   </channel>
@@ -452,19 +426,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Friendly International : Italy vs Chile</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="QualificationLillehammerLadies">
-    <display-name>Qualification | Lillehammer Ladies</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122134500 +0200" channel="QualificationLillehammerLadies">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">Qualification | Lillehammer Ladies.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122134500 +0200" stop="20251122154500 +0200" channel="QualificationLillehammerLadies">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Qualification | Lillehammer Ladies</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
   <channel id="IndividualcompetitionLillehammerHS140">
     <display-name>Individual competition | Lillehammer HS140</display-name>
