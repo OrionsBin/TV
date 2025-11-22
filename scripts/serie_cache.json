@@ -59759,5 +59759,33 @@
       10764
     ],
     "cached_at": "2025-11-21T06:23:14.296072"
+  },
+  "293304": {
+    "id": 293304,
+    "name": "Fireflies",
+    "original_name": "גחליליות",
+    "first_air_date": "2025-06-05",
+    "vote_average": 7.0,
+    "poster_path": "/8XKsf122xqHVZhJSqvU0JkwWan0.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10765
+    ],
+    "cached_at": "2025-11-22T06:20:17.554820"
+  },
+  "222076": {
+    "id": 222076,
+    "name": "Mademoiselle Holmes",
+    "original_name": "Mademoiselle Holmes",
+    "first_air_date": "2024-04-11",
+    "vote_average": 6.7,
+    "poster_path": "/51Vqf3EcCap1zZtZCiKEOOMDGCV.jpg",
+    "genre_ids": [
+      10759,
+      80,
+      9648
+    ],
+    "cached_at": "2025-11-22T06:20:17.793698"
   }
 }
