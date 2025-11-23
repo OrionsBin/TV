@@ -2,37 +2,10 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecnovaravsrenate" tvg-name="Soccer | Italy - Serie C : Novara vs Renate (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Novara_vs_Renate.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Novara vs Renate (14:30)
-https://dlhd.dad/watch.php?id=86
-
-#EXTINF:-1 tvg-id="italyseriecascolivsarezzo" tvg-name="Soccer | Italy - Serie C : Ascoli vs Arezzo (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Arezzo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Arezzo (14:30)
-https://dlhd.dad/watch.php?id=162
-
-#EXTINF:-1 tvg-id="italyseriecascolivsarezzo" tvg-name="Soccer | Italy - Serie C : Ascoli vs Arezzo (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Arezzo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Arezzo (14:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyseriecternanavsjuventusii" tvg-name="Soccer | Italy - Serie C : Ternana vs Juventus II (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Juventus II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ternana vs Juventus II (14:30)
-https://dlhd.dad/watch.php?id=163
-
-#EXTINF:-1 tvg-id="italyserieccataniavslatina" tvg-name="Soccer | Italy - Serie C : Catania vs Latina (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catania_vs_Latina.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Catania vs Latina (14:30)
-https://dlhd.dad/watch.php?id=164
-
-#EXTINF:-1 tvg-id="italyserieccosenzavsbenevento" tvg-name="Soccer | Italy - Serie C : Cosenza vs Benevento (14:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cosenza-calcio-logo-png-transparent.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cosenza vs Benevento (14:30)
-https://dlhd.dad/watch.php?id=165
-
-#EXTINF:-1 tvg-id="italyseriecunionbresciavsvicenza" tvg-name="Soccer | Italy - Serie C : Union Brescia vs Vicenza (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Brescia_vs_Vicenza.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Union Brescia vs Vicenza (14:30)
-https://dlhd.dad/watch.php?id=106
-
-#EXTINF:-1 tvg-id="italyseriecunionbresciavsvicenza" tvg-name="Soccer | Italy - Serie C : Union Brescia vs Vicenza (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Brescia_vs_Vicenza.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Union Brescia vs Vicenza (14:30)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyserieacremonesevsroma" tvg-name="Soccer | Italy - Serie A : Cremonese vs Roma (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cremonese_vs_Roma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Cremonese vs Roma (15:00)
-https://dlhd.dad/watch.php?id=877
-
 #EXTINF:-1 tvg-id="italyseriecgianaerminiovsospitaletto" tvg-name="Soccer | Italy - Serie C : Giana Erminio vs Ospitaletto (17:30)" tvg-logo="https://www.eltron.it/wp-content/uploads/2023/12/01_Immagini_profilo_PV_OSPITALETTO.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Giana Erminio vs Ospitaletto (17:30)
 https://dlhd.dad/watch.php?id=163
 
-#EXTINF:-1 tvg-id="italyseriecnuovamonterosivscampobasso" tvg-name="Soccer | Italy - Serie C : Nuova Monterosi vs Campobasso (17:30)" tvg-logo="https://images.seeklogo.com/logo-png/44/3/ssd-citta-di-campobasso-logo-png_seeklogo-443052.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Nuova Monterosi vs Campobasso (17:30)
+#EXTINF:-1 tvg-id="italyseriecnuovamonterosivscampobasso" tvg-name="Soccer | Italy - Serie C : Nuova Monterosi vs Campobasso (17:30)" tvg-logo="https://www.magnoliabasket.it/wp-content/uploads/2019/08/logo_magnolia2019_traccia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Nuova Monterosi vs Campobasso (17:30)
 https://dlhd.dad/watch.php?id=165
 
 #EXTINF:-1 tvg-id="italyseriecsalernitanavspotenzacalcio" tvg-name="Soccer | Italy - Serie C : Salernitana vs Potenza Calcio (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Potenza Calcio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Potenza Calcio (17:30)
@@ -62,24 +35,12 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyserieainternazionalevsmilan" tvg-name="Soccer | Italy - Serie A : Internazionale vs Milan (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Internazionale vs Milan (20:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="daviscupfinalsfinal" tvg-name="Tennis | Davis Cup Finals Final (15:00)" tvg-logo="https://www.collegetransitions.com/wp-content/uploads/2022/03/UC-Davis-e1648646748811.png" group-title="Eventi Live DLHD",Tennis | Davis Cup Finals Final (15:00)
+#EXTINF:-1 tvg-id="daviscupt2025finaldoubles" tvg-name="Tennis | Davis Cup (T2025): Final. Doubles (20:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/The_University_of_California_Davis.svg/300px-The_University_of_California_Davis.svg.png" group-title="Eventi Live DLHD",Tennis | Davis Cup (T2025): Final. Doubles (20:00)
 https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="daviscupt2025finaldoubles" tvg-name="Tennis | Davis Cup (T2025): Final. Doubles (20:00)" tvg-logo="https://www.collegetransitions.com/wp-content/uploads/2022/03/UC-Davis-e1648646748811.png" group-title="Eventi Live DLHD",Tennis | Davis Cup (T2025): Final. Doubles (20:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="jumpingpragueglobalchampionsleaguefinal" tvg-name="Equestrian | Jumping | Prague Global Champions League | Final (15:30)" tvg-logo="https://dam.destination.one/192063/a56a2a0d08f522da18de28dcc1e58ca3757ab8c8ba713cb50cf88580189c99b1/.jpg" group-title="Eventi Live DLHD",Equestrian | Jumping | Prague Global Champions League | Final (15:30)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="quilternationsseriesenglandvsargentina" tvg-name="Rugby Union | Quilter Nations Series : England vs Argentina (16:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/England_vs_Argentina.png" group-title="Eventi Live DLHD",Rugby Union | Quilter Nations Series : England vs Argentina (16:45)
 https://dlhd.dad/watch.php?id=460
 
 #EXTINF:-1 tvg-id="top14stadefrancaisvstoulon" tvg-name="Rugby Union | Top 14 : Stade Francais vs Toulon (21:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Stade Francais_vs_Toulon.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Stade Francais vs Toulon (21:05)
 https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="qualificationlillehammerhs140" tvg-name="Ski Jumping | Qualification | Lillehammer HS140 (14:25)" tvg-logo="https://section125qualification.com/wp-content/uploads/2025/01/s125-cc-logo.png" group-title="Eventi Live DLHD",Ski Jumping | Qualification | Lillehammer HS140 (14:25)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="individuallhlillehammerhs140kraftstefanvshoerljan" tvg-name="Winter Sports | Individual LH, Lillehammer HS140 : Kraft, Stefan vs. Hoerl, Jan (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kraft, Stefan_vs_Hoerl, Jan.png" group-title="Eventi Live DLHD",Winter Sports | Individual LH, Lillehammer HS140 : Kraft, Stefan vs. Hoerl, Jan (16:00)
-https://dlhd.dad/watch.php?id=878
 
