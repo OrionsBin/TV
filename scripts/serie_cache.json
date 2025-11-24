@@ -59815,5 +59815,44 @@
       35
     ],
     "cached_at": "2025-11-23T06:21:07.443422"
+  },
+  "246386": {
+    "id": 246386,
+    "name": "All Her Fault",
+    "original_name": "All Her Fault",
+    "first_air_date": "2025-11-07",
+    "vote_average": 8.4,
+    "poster_path": "/7lHyENqotDxIvF8SmtnSjTgWl0Y.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      80
+    ],
+    "cached_at": "2025-11-24T06:23:51.389632"
+  },
+  "68319": {
+    "id": 68319,
+    "name": "Desus & Mero",
+    "original_name": "Desus & Mero",
+    "first_air_date": "2016-10-17",
+    "vote_average": 4.9,
+    "poster_path": "/dU33kLbobmzwWTk8XhmkbMgR0sc.jpg",
+    "genre_ids": [
+      10767,
+      35
+    ],
+    "cached_at": "2025-11-24T06:23:51.484948"
+  },
+  "304334": {
+    "id": 304334,
+    "name": "퍼펙트 글로우",
+    "original_name": "퍼펙트 글로우",
+    "first_air_date": "2025-11-08",
+    "vote_average": 0.0,
+    "poster_path": "/7Jo7CgMrsE56nYs2EAf2IZvnMIu.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-11-24T06:23:51.528062"
   }
 }

@@ -136610,5 +136610,88 @@
       12
     ],
     "cached_at": "2025-11-23T06:21:01.095256"
+  },
+  "340676": {
+    "id": 340676,
+    "title": "Personal Shopper",
+    "release_date": "2016-12-14",
+    "vote_average": 5.924,
+    "poster_path": "/ztQzC2Mrw43SklHnIwQaiOHWkUM.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53
+    ],
+    "cached_at": "2025-11-24T06:23:34.305428"
+  },
+  "21583": {
+    "id": 21583,
+    "title": "Management",
+    "release_date": "2009-02-08",
+    "vote_average": 5.365,
+    "poster_path": "/roum0tVUqDWRbxBPlvdBzrxjMpK.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2025-11-24T06:23:37.706539"
+  },
+  "376166": {
+    "id": 376166,
+    "title": "Mal di pietre",
+    "release_date": "2016-10-19",
+    "vote_average": 6.556,
+    "poster_path": "/9oOUo8TYVfLrCu3mwhb39myOPne.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-11-24T06:23:41.073914"
+  },
+  "304334": {
+    "id": 304334,
+    "title": "பாசமழை",
+    "release_date": "1989-01-01",
+    "vote_average": 0.0,
+    "poster_path": "/rqlvqjSVubArJybVOrbQWqXj8Vt.jpg",
+    "genre_ids": [],
+    "cached_at": "2025-11-24T06:23:41.420748"
+  },
+  "363111": {
+    "id": 363111,
+    "title": "10050 Cielo Drive",
+    "release_date": "2016-10-21",
+    "vote_average": 4.9,
+    "poster_path": "/dHW1SUPtyWAEKkWloK60Zkn5xmS.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-11-24T06:23:41.805561"
+  },
+  "1142122": {
+    "id": 1142122,
+    "title": "Io sono Rosa Ricci",
+    "release_date": "2025-10-30",
+    "vote_average": 6.125,
+    "poster_path": "/tBk3rmW8JdvkrH0ud529kjt7rJc.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2025-11-24T06:23:41.878754"
+  },
+  "1242011": {
+    "id": 1242011,
+    "title": "Together",
+    "release_date": "2025-07-28",
+    "vote_average": 7.113,
+    "poster_path": "/inOTHv1mv1L4gjmfUsFKWMJOGH1.jpg",
+    "genre_ids": [
+      27,
+      10749
+    ],
+    "cached_at": "2025-11-24T06:23:44.235820"
   }
 }
