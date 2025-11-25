@@ -136693,5 +136693,65 @@
       10749
     ],
     "cached_at": "2025-11-24T06:23:44.235820"
+  },
+  "444218": {
+    "id": 444218,
+    "title": "Tre secondi per la vittoria",
+    "release_date": "2017-12-28",
+    "vote_average": 7.0,
+    "poster_path": "/7D16ms6w713xeiBOP5PhQHbd60B.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-25T06:23:25.199367"
+  },
+  "1581099": {
+    "id": 1581099,
+    "title": "Kevin Hart: Acting My Age",
+    "release_date": "2025-11-23",
+    "vote_average": 6.0,
+    "poster_path": "/89HPieER8jX9sGKKzhagGIGkMxi.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-11-25T06:23:29.921225"
+  },
+  "1302916": {
+    "id": 1302916,
+    "title": "Heart Eyes - Appuntamento con la morte",
+    "release_date": "2025-02-06",
+    "vote_average": 6.441,
+    "poster_path": "/xsSzqZxYZ7bZECiDy2au650dSYa.jpg",
+    "genre_ids": [
+      27,
+      35,
+      10749
+    ],
+    "cached_at": "2025-11-25T06:23:30.354694"
+  },
+  "11560": {
+    "id": 11560,
+    "title": "High Crimes - Crimini di stato",
+    "release_date": "2002-04-05",
+    "vote_average": 6.4,
+    "poster_path": "/2mjp6F2TTJkb7yAvM1331de4vHm.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53,
+      80
+    ],
+    "cached_at": "2025-11-25T06:23:32.765802"
+  },
+  "1563925": {
+    "id": 1563925,
+    "title": "Chris Hemsworth: A Road Trip to Remember",
+    "release_date": "2025-11-23",
+    "vote_average": 7.0,
+    "poster_path": "/uRvBvxOmqaCMeZNJGducuh2WsgE.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-11-25T06:23:35.125812"
   }
 }
