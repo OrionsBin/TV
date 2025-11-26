@@ -2,21 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italycoppaitaliaseriecarezzovslatina" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Arezzo vs Latina (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arezzo_vs_Latina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Arezzo vs Latina (18:00)
-https://dlhd.dad/watch.php?id=8
-
-#EXTINF:-1 tvg-id="italycoppaitaliaseriecpotenzacalciovsaudacecerignola" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Potenza Calcio vs Audace Cerignola (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Potenza Calcio_vs_Audace Cerignola.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Potenza Calcio vs Audace Cerignola (18:00)
-https://dlhd.dad/watch.php?id=9
-
-#EXTINF:-1 tvg-id="italycoppaitaliaseriecternanavsgiugliano" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Ternana vs Giugliano (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Giugliano.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Ternana vs Giugliano (18:00)
-https://dlhd.dad/watch.php?id=10
-
-#EXTINF:-1 tvg-id="italycoppaitaliaseriecprovercellivsatalantaii" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Pro Vercelli vs Atalanta II (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Vercelli_vs_Atalanta II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Pro Vercelli vs Atalanta II (18:00)
-https://dlhd.dad/watch.php?id=11
-
-#EXTINF:-1 tvg-id="italycoppaitaliaseriecprovercellivsatalantaii" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Pro Vercelli vs Atalanta II (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Vercelli_vs_Atalanta II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Pro Vercelli vs Atalanta II (18:00)
-https://dlhd.dad/watch.php?id=870
-
 #EXTINF:-1 tvg-id="uefachampionsleaguepaphosvsmonaco" tvg-name="All Soccer Events | UEFA Champions League : Paphos vs Monaco (18:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Paphos_vs_Monaco.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Paphos vs Monaco (18:45)
 https://dlhd.dad/watch.php?id=13
 
@@ -61,7 +46,4 @@ https://dlhd.dad/watch.php?id=29
 
 #EXTINF:-1 tvg-id="uefachampionsleagueolympiakospiraeusvsrealmadrid" tvg-name="All Soccer Events | UEFA Champions League : Olympiakos Piraeus vs Real Madrid (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympiakos Piraeus_vs_Real Madrid.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Olympiakos Piraeus vs Real Madrid (21:00)
 https://dlhd.dad/watch.php?id=9
-
-#EXTINF:-1 tvg-id="menroundrobineuropeanchampionshipsswedenvsscotland" tvg-name="Winter Sports | Men | Round Robin | European Championships : Sweden vs Scotland (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sweden_vs_Scotland.png" group-title="Eventi Live DLHD",Winter Sports | Men | Round Robin | European Championships : Sweden vs Scotland (18:00)
-https://dlhd.dad/watch.php?id=879
 
