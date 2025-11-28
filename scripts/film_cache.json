@@ -136925,5 +136925,68 @@
       35
     ],
     "cached_at": "2025-11-27T06:24:05.620020"
+  },
+  "1309584": {
+    "id": 1309584,
+    "title": "Una figlia",
+    "release_date": "2025-04-24",
+    "vote_average": 6.475,
+    "poster_path": "/iRf1629G8Y5RiX10YuT29k8bpRA.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-11-28T06:23:54.010743"
+  },
+  "21539": {
+    "id": 21539,
+    "title": "Uno sguardo dal cielo",
+    "release_date": "1996-12-13",
+    "vote_average": 5.8,
+    "poster_path": "/bZL7a1mII3rdWoXP0wM9orY6oM3.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      18,
+      35,
+      10749
+    ],
+    "cached_at": "2025-11-28T06:23:54.035042"
+  },
+  "14292": {
+    "id": 14292,
+    "title": "Miracle",
+    "release_date": "2004-02-06",
+    "vote_average": 7.114,
+    "poster_path": "/mxtej2th8t8x0ufVBTyhsO6Htxj.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2025-11-28T06:23:54.047952"
+  },
+  "1013154": {
+    "id": 1013154,
+    "title": "Scomode verità",
+    "release_date": "2024-12-06",
+    "vote_average": 6.487,
+    "poster_path": "/ney2nrB5nqrnwcXLJEsuFQW2ewW.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2025-11-28T06:23:54.093285"
+  },
+  "1433719": {
+    "id": 1433719,
+    "title": "High Ground",
+    "release_date": "2025-03-17",
+    "vote_average": 5.79,
+    "poster_path": "/cqF7xuZWbBYXWHsp1I1H5PwujPs.jpg",
+    "genre_ids": [
+      53,
+      80,
+      28
+    ],
+    "cached_at": "2025-11-28T06:23:54.378740"
   }
 }
