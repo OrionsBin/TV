@@ -2,30 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="franceligue1monacovspsg" tvg-name="All Soccer Events | France - Ligue 1 : Monaco vs PSG (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monaco_vs_PSG.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Monaco vs PSG (17:00)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyseriecospitalettovsvirtusverona" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Virtus Verona (17:30)" tvg-logo="https://images.seeklogo.com/logo-png/29/3/associazione-virtus-verona-logo-png_seeklogo-290299.png?v=1962747632479797680" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Virtus Verona (17:30)
-https://dlhd.dad/watch.php?id=155
-
-#EXTINF:-1 tvg-id="italyseriecpergolettesevsalbinoleffe" tvg-name="All Soccer Events | Italy - Serie C : Pergolettese vs AlbinoLeffe (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pergolettese_vs_AlbinoLeffe.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pergolettese vs AlbinoLeffe (17:30)
-https://dlhd.dad/watch.php?id=153
-
-#EXTINF:-1 tvg-id="italyseriecpinetovsravenna" tvg-name="All Soccer Events | Italy - Serie C : Pineto vs Ravenna (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pineto_vs_Ravenna.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pineto vs Ravenna (17:30)
-https://dlhd.dad/watch.php?id=156
-
-#EXTINF:-1 tvg-id="italyseriecpinetovsravenna" tvg-name="All Soccer Events | Italy - Serie C : Pineto vs Ravenna (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pineto_vs_Ravenna.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pineto vs Ravenna (17:30)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyserieccrotonevsgiugliano" tvg-name="All Soccer Events | Italy - Serie C : Crotone vs Giugliano (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crotone_vs_Giugliano.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Crotone vs Giugliano (17:30)
-https://dlhd.dad/watch.php?id=154
-
-#EXTINF:-1 tvg-id="italyseriecteamaltamuravssorrento" tvg-name="All Soccer Events | Italy - Serie C : Team Altamura vs Sorrento (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Team Altamura_vs_Sorrento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Team Altamura vs Sorrento (17:30)
-https://dlhd.dad/watch.php?id=157
-
-#EXTINF:-1 tvg-id="italyserieajuventusvscagliari" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Cagliari (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Cagliari.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Cagliari (18:00)
-https://dlhd.dad/watch.php?id=877
-
 #EXTINF:-1 tvg-id="englandpremierleagueevertonvsnewcastleunited" tvg-name="All Soccer Events | England - Premier League : Everton vs Newcastle United (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Everton_vs_Newcastle United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Everton vs Newcastle United (18:30)
 https://dlhd.dad/watch.php?id=462
 
@@ -47,18 +23,12 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="franceligue1olympiquemarseillevstoulouse" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Marseille vs Toulouse (21:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Toulouse.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Marseille vs Toulouse (21:05)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="formula2qatarairwaysqatargrandprixsprintrace" tvg-name="Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Sprint Race (17:20)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Sprint Race (17:20)
-https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixqualifying" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (19:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (19:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixqualifying" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (19:00)" tvg-logo="https://images.seeklogo.com/logo-png/42/2/mclaren-formula-1-team-logo-png_seeklogo-425651.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (19:00)
 https://dlhd.dad/watch.php?id=577
 
 #EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (20:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240612/original/pngtree-2025-3d-vector-design-png-image_15307809.png" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (20:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupracesatcoppermountain2ndrunofthewomensgiantslalom" tvg-name="Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (20:45)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (20:45)
+#EXTINF:-1 tvg-id="worldcupracesatcoppermountain2ndrunofthewomensgiantslalom" tvg-name="Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (20:45)" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200xn/p0f6zvrg.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (20:45)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="stersundmensrelayworldcup" tvg-name="Biathlon | ?stersund | Men's Relay World Cup (16:45)" tvg-logo="https://cdn.4321property.com/4321/close.png" group-title="Eventi Live DLHD",Biathlon | ?stersund | Men's Relay World Cup (16:45)
-https://dlhd.dad/watch.php?id=879
 
