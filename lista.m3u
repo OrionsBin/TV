@@ -73,8 +73,8 @@ https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97
 https://vavoo.to/vavoo-iptv/play/12254846645cb5a95a1f30
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arvedi.it/fileadmin/user_upload/istituzionale/gruppo-arvedi-e-informazione-logo-Cremona1.png" group-title="Altro",CREMONA 1
 https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
-https://vavoo.to/vavoo-iptv/play/196833914960066715a573
+#EXTINF:-1 tvg-id="dazn.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN
+https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 #EXTINF:-1 tvg-id="dazn.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN (D)
 https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
@@ -241,6 +241,8 @@ https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
@@ -304,7 +306,7 @@ https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
 https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 
-# SPORT
+# RAI
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
 https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/rtr99-cover.jpg" group-title="Altro",RTR 99 TV
@@ -385,6 +387,8 @@ https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 # MUSICA
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://dlhd.dad/watch.php?id=880
+#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
+https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (D)
 https://dlhd.dad/watch.php?id=869
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -397,8 +401,6 @@ https://dlhd.dad/watch.php?id=872
 https://dlhd.dad/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://dlhd.dad/watch.php?id=874
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -443,10 +445,6 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://dlhd.dad/watch.php?id=881
 
 # RAI
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
-https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
-https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBXh88zZx4IvyQKyYd5Hu2yeytO42zNQ4zA&s" group-title="Altro",SUPER TV ARISTANIS
@@ -532,7 +530,7 @@ https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME
 https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 
-# FILM - SERIE TV
+# SPORT
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (1)
 https://vavoo.to/vavoo-iptv/play/2764553737f817b6d4f583
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (2)
@@ -540,7 +538,7 @@ https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
-# RAI
+# FILM - SERIE TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpzqT0DLXv-md7VU-fTF5BeaEashocwHUdw&s" group-title="Altro",TT TELETUTTO
 https://vavoo.to/vavoo-iptv/play/3709706813e7a46de6436d
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
@@ -587,34 +585,25 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="englandpremierleagueevertonvsnewcastleunited" tvg-name="All Soccer Events | England - Premier League : Everton vs Newcastle United (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Everton_vs_Newcastle United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Everton vs Newcastle United (18:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="germanybundesligabayerleverkusenvsborussiadortmund" tvg-name="All Soccer Events | Germany - Bundesliga : Bayer Leverkusen vs Borussia Dortmund (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bayer Leverkusen_vs_Borussia Dortmund.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Bayer Leverkusen vs Borussia Dortmund (18:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyserieamilanvslazio" tvg-name="All Soccer Events | Italy - Serie A : Milan vs Lazio (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milan_vs_Lazio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Milan vs Lazio (20:45)
+#EXTINF:-1 tvg-id="italyserieamilanvslazio" tvg-name="All Soccer Events | Italy - Serie A : Milan vs Lazio (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milan_vs_Lazio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Milan vs Lazio (19:45)
 https://dlhd.dad/watch.php?id=156
 
-#EXTINF:-1 tvg-id="italyserieamilanvslazio" tvg-name="All Soccer Events | Italy - Serie A : Milan vs Lazio (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milan_vs_Lazio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Milan vs Lazio (20:45)
+#EXTINF:-1 tvg-id="italyserieamilanvslazio" tvg-name="All Soccer Events | Italy - Serie A : Milan vs Lazio (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milan_vs_Lazio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Milan vs Lazio (19:45)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="italyserieamilanvslazio" tvg-name="All Soccer Events | Italy - Serie A : Milan vs Lazio (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milan_vs_Lazio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Milan vs Lazio (20:45)
+#EXTINF:-1 tvg-id="italyserieamilanvslazio" tvg-name="All Soccer Events | Italy - Serie A : Milan vs Lazio (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milan_vs_Lazio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Milan vs Lazio (19:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="englandpremierleaguetottenhamhotspurvsfulham" tvg-name="All Soccer Events | England - Premier League : Tottenham Hotspur vs Fulham (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Tottenham Hotspur_vs_Fulham.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Tottenham Hotspur vs Fulham (21:00)
+#EXTINF:-1 tvg-id="englandpremierleaguetottenhamhotspurvsfulham" tvg-name="All Soccer Events | England - Premier League : Tottenham Hotspur vs Fulham (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Tottenham Hotspur_vs_Fulham.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Tottenham Hotspur vs Fulham (20:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="franceligue1olympiquemarseillevstoulouse" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Marseille vs Toulouse (21:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Toulouse.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Marseille vs Toulouse (21:05)
+#EXTINF:-1 tvg-id="franceligue1olympiquemarseillevstoulouse" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Marseille vs Toulouse (20:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Toulouse.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Marseille vs Toulouse (20:05)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixqualifying" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (19:00)" tvg-logo="https://images.seeklogo.com/logo-png/42/2/mclaren-formula-1-team-logo-png_seeklogo-425651.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (19:00)
-https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (20:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240612/original/pngtree-2025-3d-vector-design-png-image_15307809.png" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (20:00)
+#EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (19:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240226/original/pngtree-2025-year-gradient-vector-png-image_14411938.png" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (19:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupracesatcoppermountain2ndrunofthewomensgiantslalom" tvg-name="Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (20:45)" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200xn/p0f6zvrg.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (20:45)
+#EXTINF:-1 tvg-id="worldcupracesatcoppermountain2ndrunofthewomensgiantslalom" tvg-name="Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (19:45)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (19:45)
 https://dlhd.dad/watch.php?id=878
 
 
