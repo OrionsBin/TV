@@ -137060,5 +137060,44 @@
       35
     ],
     "cached_at": "2025-11-30T06:21:53.027585"
+  },
+  "1280282": {
+    "id": 1280282,
+    "title": "La casa delle bambole di Gabby - Il film",
+    "release_date": "2025-09-13",
+    "vote_average": 6.686,
+    "poster_path": "/9Tc4A7AsmZJLyaRzZjyFY9QgxI1.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16
+    ],
+    "cached_at": "2025-12-01T06:25:25.313434"
+  },
+  "967941": {
+    "id": 967941,
+    "title": "Wicked - Parte 2",
+    "release_date": "2025-11-19",
+    "vote_average": 6.776,
+    "poster_path": "/txa9N2k4ADODxTgKMlsj8ps7PhC.jpg",
+    "genre_ids": [
+      14,
+      12,
+      10749
+    ],
+    "cached_at": "2025-12-01T06:25:25.412272"
+  },
+  "701387": {
+    "id": 701387,
+    "title": "Bugonia",
+    "release_date": "2025-10-23",
+    "vote_average": 7.557,
+    "poster_path": "/nhtC3xgsZMkotrPMzOHotUyHw6l.jpg",
+    "genre_ids": [
+      80,
+      878
+    ],
+    "cached_at": "2025-12-01T06:25:25.484734"
   }
 }
