@@ -137099,5 +137099,562 @@
       878
     ],
     "cached_at": "2025-12-01T06:25:25.484734"
+  },
+  "409164": {
+    "id": 409164,
+    "title": "Boys in the Trees",
+    "release_date": "2016-09-09",
+    "vote_average": 6.607,
+    "poster_path": "/nZzSxliBkqVqRaXKCnQVr59VcNt.jpg",
+    "genre_ids": [
+      18,
+      27,
+      53
+    ],
+    "cached_at": "2025-12-02T06:24:42.802633"
+  },
+  "419639": {
+    "id": 419639,
+    "title": "The Thinning",
+    "release_date": "2016-10-12",
+    "vote_average": 6.7,
+    "poster_path": "/1vgtCoBbBzeoW78g8fHT4EekoM2.jpg",
+    "genre_ids": [
+      53,
+      18,
+      27
+    ],
+    "cached_at": "2025-12-02T06:24:42.809685"
+  },
+  "408439": {
+    "id": 408439,
+    "title": "Hounds of Love",
+    "release_date": "2016-10-07",
+    "vote_average": 6.139,
+    "poster_path": "/b4niGo8hpxIpmAZsGkpZK4mXiDo.jpg",
+    "genre_ids": [
+      80,
+      18,
+      27
+    ],
+    "cached_at": "2025-12-02T06:24:42.863378"
+  },
+  "458749": {
+    "id": 458749,
+    "title": "Bob & Marys - Criminali a domicilio",
+    "release_date": "2018-04-05",
+    "vote_average": 5.148,
+    "poster_path": "/k2tATRBwMMXhrNjYPj69F1dsWVh.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-02T06:24:42.875423"
+  },
+  "409289": {
+    "id": 409289,
+    "title": "My Best Friend’s Wedding",
+    "release_date": "2016-08-05",
+    "vote_average": 5.5,
+    "poster_path": "/fTn4PteaLEK0A5oM4jcZApvFZy.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2025-12-02T06:24:42.881609"
+  },
+  "340487": {
+    "id": 340487,
+    "title": "Certain Women",
+    "release_date": "2016-09-25",
+    "vote_average": 6.0,
+    "poster_path": "/1A5cWPvPnw7vY1Dfg3DSyLG0k96.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:42.950423"
+  },
+  "283552": {
+    "id": 283552,
+    "title": "La luce sugli oceani",
+    "release_date": "2016-09-02",
+    "vote_average": 7.071,
+    "poster_path": "/7lxV1IIhZya30oh4DkewCOAe4k9.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-02T06:24:42.950436"
+  },
+  "1327862": {
+    "id": 1327862,
+    "title": "Regretting You - Tutto quello che non ti ho detto",
+    "release_date": "2025-10-22",
+    "vote_average": 7.047,
+    "poster_path": "/zIGBurfZgzhpc1m6pCOtMTt8CS3.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:43.002749"
+  },
+  "393729": {
+    "id": 393729,
+    "title": "Divines",
+    "release_date": "2016-08-31",
+    "vote_average": 7.678,
+    "poster_path": "/6P12dmdR0XFXXOPx1HsI8kT6yMX.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:43.016066"
+  },
+  "340485": {
+    "id": 340485,
+    "title": "American Honey",
+    "release_date": "2016-09-30",
+    "vote_average": 6.795,
+    "poster_path": "/41SVO0AElBAl7zks9dFhJ0OjHni.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:43.018817"
+  },
+  "374461": {
+    "id": 374461,
+    "title": "Mr. Church",
+    "release_date": "2016-09-16",
+    "vote_average": 7.4,
+    "poster_path": "/5fCfZEQwcbuqVPyMu7pN5XNpK5V.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:43.076641"
+  },
+  "1180831": {
+    "id": 1180831,
+    "title": "Troll 2",
+    "release_date": "2025-11-30",
+    "vote_average": 6.5,
+    "poster_path": "/1ZitP1wuUsDA1Ci74OWe7X4FmPn.jpg",
+    "genre_ids": [
+      28,
+      14,
+      53
+    ],
+    "cached_at": "2025-12-02T06:24:43.091544"
+  },
+  "407389": {
+    "id": 407389,
+    "title": "The Remains",
+    "release_date": "2016-08-05",
+    "vote_average": 4.679,
+    "poster_path": "/k76aHHeRgqZsdjcSvkzq2KBQLj4.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-12-02T06:24:43.146580"
+  },
+  "340103": {
+    "id": 340103,
+    "title": "The Monster",
+    "release_date": "2016-11-11",
+    "vote_average": 5.536,
+    "poster_path": "/hfZlhea7wCNQK78VfZC3gDJ4si.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:43.157437"
+  },
+  "393765": {
+    "id": 393765,
+    "title": "Priceless",
+    "release_date": "2016-10-14",
+    "vote_average": 7.021,
+    "poster_path": "/bPg5PCFOM9LMyEp1dzF8LfIfgCW.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      80
+    ],
+    "cached_at": "2025-12-02T06:24:43.161236"
+  },
+  "313297": {
+    "id": 313297,
+    "title": "Kubo e la spada magica",
+    "release_date": "2016-08-18",
+    "vote_average": 7.632,
+    "poster_path": "/txdhBQ03G6xjD3YC0DOiIsdQfpv.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751
+    ],
+    "cached_at": "2025-12-02T06:24:43.217525"
+  },
+  "381518": {
+    "id": 381518,
+    "title": "Mindhorn",
+    "release_date": "2016-10-09",
+    "vote_average": 6.078,
+    "poster_path": "/3fCWgUbC6qjU1SyCIfAYtqzU20s.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-02T06:24:43.230043"
+  },
+  "294795": {
+    "id": 294795,
+    "title": "The 9th Life of Louis Drax",
+    "release_date": "2016-09-01",
+    "vote_average": 6.4,
+    "poster_path": "/yuHljnboDlqUREqE25bcuKNOZrM.jpg",
+    "genre_ids": [
+      9648,
+      53
+    ],
+    "cached_at": "2025-12-02T06:24:43.233861"
+  },
+  "325373": {
+    "id": 325373,
+    "title": "Due cuori e un orso",
+    "release_date": "2016-10-02",
+    "vote_average": 6.5,
+    "poster_path": "/ouIRtKyVKmGSQ2gXSuLvzfwkGiz.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-02T06:24:43.290110"
+  },
+  "416149": {
+    "id": 416149,
+    "title": "The Perfect Weapon",
+    "release_date": "2016-09-09",
+    "vote_average": 3.7,
+    "poster_path": "/8bFIPM8PatqvwtNO9ObjQ6PBDky.jpg",
+    "genre_ids": [
+      878,
+      28,
+      53
+    ],
+    "cached_at": "2025-12-02T06:24:43.306516"
+  },
+  "298722": {
+    "id": 298722,
+    "title": "Soap Opera",
+    "release_date": "2014-10-23",
+    "vote_average": 5.546,
+    "poster_path": "/l04OcbLztyJT4SFLqxdLSniiRr4.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-02T06:24:43.362025"
+  },
+  "184341": {
+    "id": 184341,
+    "title": "Hands of Stone",
+    "release_date": "2016-08-26",
+    "vote_average": 6.6,
+    "poster_path": "/rpAYkkc7ltnxnMXOZLPuI9A6cuB.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:43.371421"
+  },
+  "413834": {
+    "id": 413834,
+    "title": "Gringo: The Dangerous Life of John McAfee",
+    "release_date": "2016-09-24",
+    "vote_average": 6.652,
+    "poster_path": "/wGFrecdZaWHARMkRD7sr11mWo2T.jpg",
+    "genre_ids": [
+      99,
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:43.375926"
+  },
+  "339792": {
+    "id": 339792,
+    "title": "David Brent: Life on the Road",
+    "release_date": "2016-08-19",
+    "vote_average": 6.1,
+    "poster_path": "/lhUKeZj7VlWAtavAzTLwClDWSpI.jpg",
+    "genre_ids": [
+      35,
+      10402
+    ],
+    "cached_at": "2025-12-02T06:24:43.432436"
+  },
+  "377264": {
+    "id": 377264,
+    "title": "Morgan",
+    "release_date": "2016-09-01",
+    "vote_average": 5.809,
+    "poster_path": "/u9DY1Uf9ZOUlgwQCOHzQvCXCn6U.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2025-12-02T06:24:43.451423"
+  },
+  "1570318": {
+    "id": 1570318,
+    "title": "忍野さら/Re-Born",
+    "release_date": "2016-08-26",
+    "vote_average": 0.0,
+    "poster_path": "/zLvwdrKYhrWt9gbyA0Bvha7pAv8.jpg",
+    "genre_ids": [],
+    "cached_at": "2025-12-02T06:24:43.519974"
+  },
+  "317557": {
+    "id": 317557,
+    "title": "Queen of Katwe",
+    "release_date": "2016-09-23",
+    "vote_average": 7.246,
+    "poster_path": "/m8V2ud6uhV7qH6wEDoQ4Ujw99ji.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:43.576164"
+  },
+  "339408": {
+    "id": 339408,
+    "title": "The Birth of a Nation - Il risveglio di un popolo",
+    "release_date": "2016-09-09",
+    "vote_average": 6.558,
+    "poster_path": "/sUlFrVt5DW5642BEIimU4RyO30p.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:43.580533"
+  },
+  "1084242": {
+    "id": 1084242,
+    "title": "Zootropolis 2",
+    "release_date": "2025-11-26",
+    "vote_average": 7.649,
+    "poster_path": "/5mXwPzTEcqko5H6aNNNA7d9YmWk.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      12,
+      9648
+    ],
+    "cached_at": "2025-12-02T06:24:43.592038"
+  },
+  "408508": {
+    "id": 408508,
+    "title": "Blue Jay",
+    "release_date": "2016-10-07",
+    "vote_average": 7.0,
+    "poster_path": "/A2A80lvgaagG5ewfP7SKhL8uwUI.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-02T06:24:43.647422"
+  },
+  "373476": {
+    "id": 373476,
+    "title": "Complete Unknown - Cambio d'identità",
+    "release_date": "2016-08-26",
+    "vote_average": 5.141,
+    "poster_path": "/3larb2cAwbBlOKHe79wNi3cofIC.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53
+    ],
+    "cached_at": "2025-12-02T06:24:43.651216"
+  },
+  "380623": {
+    "id": 380623,
+    "title": "Nocturama",
+    "release_date": "2016-08-31",
+    "vote_average": 6.4,
+    "poster_path": "/u3jrjyPffLludqDtZE7li3JAQ0R.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2025-12-02T06:24:43.661641"
+  },
+  "393732": {
+    "id": 393732,
+    "title": "Mean Dreams",
+    "release_date": "2016-10-21",
+    "vote_average": 6.401,
+    "poster_path": "/sf1yPzqPNfmwh7RumTunOUir3f0.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2025-12-02T06:24:43.731699"
+  },
+  "395982": {
+    "id": 395982,
+    "title": "Prevenge",
+    "release_date": "2017-02-10",
+    "vote_average": 5.537,
+    "poster_path": "/5OWrwvKscVc7Md0IvtTLZmjXbKt.jpg",
+    "genre_ids": [
+      27,
+      35,
+      18,
+      53,
+      14
+    ],
+    "cached_at": "2025-12-02T06:24:43.792237"
+  },
+  "309886": {
+    "id": 309886,
+    "title": "Blood Father",
+    "release_date": "2016-08-11",
+    "vote_average": 6.176,
+    "poster_path": "/yUG8LjlnQRHE6FCcUgRYJMrmIM9.jpg",
+    "genre_ids": [
+      28,
+      53,
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:43.804830"
+  },
+  "408197": {
+    "id": 408197,
+    "title": "Marija",
+    "release_date": "2016-08-08",
+    "vote_average": 5.5,
+    "poster_path": "/n46k4fg9OQ6F5n5G2L7ZB7XoagS.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:43.860398"
+  },
+  "390584": {
+    "id": 390584,
+    "title": "King Cobra",
+    "release_date": "2016-10-21",
+    "vote_average": 5.9,
+    "poster_path": "/sEun5y2q3aIrmpIAAhtS9G2JwH0.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:43.874493"
+  },
+  "397514": {
+    "id": 397514,
+    "title": "The Windmill Massacre",
+    "release_date": "2016-08-29",
+    "vote_average": 4.937,
+    "poster_path": "/jlmbMnrzxkFaSa8UnHefY4tNuOp.jpg",
+    "genre_ids": [
+      18,
+      27
+    ],
+    "cached_at": "2025-12-02T06:24:43.994202"
+  },
+  "1519084": {
+    "id": 1519084,
+    "title": "I mercanti di felicità",
+    "release_date": "2025-11-14",
+    "vote_average": 0.0,
+    "poster_path": "/bMxiz9KwVminT5HCGOubkcHsK0c.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-02T06:24:44.020315"
+  },
+  "409297": {
+    "id": 409297,
+    "title": "A Dark Song",
+    "release_date": "2016-07-08",
+    "vote_average": 6.294,
+    "poster_path": "/fguce8M1bZnWjVkRWCFh9P3kt6A.jpg",
+    "genre_ids": [
+      27,
+      14,
+      9648
+    ],
+    "cached_at": "2025-12-02T06:24:44.089263"
+  },
+  "403368": {
+    "id": 403368,
+    "title": "Havenhurst",
+    "release_date": "2016-08-22",
+    "vote_average": 5.143,
+    "poster_path": "/1Q9IqznNP8fgwvdWXwvNhNP5qK5.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2025-12-02T06:24:44.159651"
+  },
+  "351339": {
+    "id": 351339,
+    "title": "Missione Anthropoid",
+    "release_date": "2016-08-12",
+    "vote_average": 7.141,
+    "poster_path": "/hbCajabdK41H28o4FBoAT13fAJJ.jpg",
+    "genre_ids": [
+      36,
+      53,
+      10752
+    ],
+    "cached_at": "2025-12-02T06:24:44.232686"
+  },
+  "408537": {
+    "id": 408537,
+    "title": "Il cittadino illustre",
+    "release_date": "2016-09-08",
+    "vote_average": 7.26,
+    "poster_path": "/tOCdpZTKoS14Xn3k2DHQe7uB5Qa.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:44.303226"
+  },
+  "340481": {
+    "id": 340481,
+    "title": "La ragazza senza nome",
+    "release_date": "2016-10-05",
+    "vote_average": 6.157,
+    "poster_path": "/6Atxx762QR1QgzQoYwwGiPw8cXP.jpg",
+    "genre_ids": [
+      53,
+      18,
+      80
+    ],
+    "cached_at": "2025-12-02T06:24:44.374221"
+  },
+  "368942": {
+    "id": 368942,
+    "title": "A Quiet Passion",
+    "release_date": "2016-10-07",
+    "vote_average": 6.0,
+    "poster_path": "/hfs3qdd3th9pgSJ8L80wPxhwebU.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:44.446088"
+  },
+  "876104": {
+    "id": 876104,
+    "title": "Il mio trentesimo... Natale",
+    "release_date": "2021-12-04",
+    "vote_average": 6.417,
+    "poster_path": "/yGQIre0Q9TVf9sjMNUZ1FNzfkNI.jpg",
+    "genre_ids": [
+      10770,
+      35,
+      10749
+    ],
+    "cached_at": "2025-12-02T06:24:44.517494"
   }
 }

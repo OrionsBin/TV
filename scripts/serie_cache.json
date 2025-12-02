@@ -59902,5 +59902,107 @@
       10765
     ],
     "cached_at": "2025-12-01T06:25:30.644769"
+  },
+  "67264": {
+    "id": 67264,
+    "name": "Beat Bugs",
+    "original_name": "Beat Bugs",
+    "first_air_date": "2016-07-25",
+    "vote_average": 5.1,
+    "poster_path": "/eVC1dtvG9CqWSkxixoj8R5X7w1b.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "cached_at": "2025-12-02T06:24:49.903111"
+  },
+  "283967": {
+    "id": 283967,
+    "name": "L'amore è cieco: Italia",
+    "original_name": "L'amore è cieco: Italia",
+    "first_air_date": "2025-12-01",
+    "vote_average": 0.0,
+    "poster_path": "/5S7EDKVNEewyk9KuvNDx8ICOKuL.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-12-02T06:24:49.930998"
+  },
+  "67780": {
+    "id": 67780,
+    "name": "Easy",
+    "original_name": "Easy",
+    "first_air_date": "2016-09-22",
+    "vote_average": 6.0,
+    "poster_path": "/uh0pHb6JV0m6Vjmz1tGhohr9B7y.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:49.955974"
+  },
+  "67015": {
+    "id": 67015,
+    "name": "Ice Fantasy",
+    "original_name": "幻城",
+    "first_air_date": "2016-07-24",
+    "vote_average": 5.9,
+    "poster_path": "/lD0HzBSC3JPbIXFRh4txPdl9pz2.jpg",
+    "genre_ids": [
+      18,
+      10765,
+      10768
+    ],
+    "cached_at": "2025-12-02T06:24:49.967997"
+  },
+  "67855": {
+    "id": 67855,
+    "name": "Zumbo e la fabbrica dei dolci",
+    "original_name": "Zumbo's Just Desserts",
+    "first_air_date": "2016-08-22",
+    "vote_average": 6.1,
+    "poster_path": "/9HRjQL4Umbt8RDN3PInX4jHzZNi.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-12-02T06:24:50.009812"
+  },
+  "68126": {
+    "id": 68126,
+    "name": "Norsemen",
+    "original_name": "Vikingane",
+    "first_air_date": "2016-10-21",
+    "vote_average": 7.2,
+    "poster_path": "/qbNeUgqUDsidmEC0GgnvRyyFErc.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:50.110368"
+  },
+  "67802": {
+    "id": 67802,
+    "name": "1%의 어떤것",
+    "original_name": "1%의 어떤것",
+    "first_air_date": "2016-10-05",
+    "vote_average": 7.113,
+    "poster_path": "/nexRfQ5Blp0TJ3CjQWEAMK0ko4P.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:50.154140"
+  },
+  "82212": {
+    "id": 82212,
+    "name": "我喜歡你 你知道嗎？",
+    "original_name": "我喜歡你 你知道嗎？",
+    "first_air_date": "2016-09-29",
+    "vote_average": 0.0,
+    "poster_path": "/mckeswTdttSFpBA9AlTvzSvCfmQ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-02T06:24:50.286373"
   }
 }
