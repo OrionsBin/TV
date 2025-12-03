@@ -2,60 +2,51 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italycoppaitaliaatalantavsgenoa" tvg-name="All Soccer Events | Italy - Coppa Italia : Atalanta vs Genoa (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta_vs_Genoa.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia : Atalanta vs Genoa (14:00)
-https://dlhd.dad/watch.php?id=854
+#EXTINF:-1 tvg-id="italyserieccasertanavsatalantaii" tvg-name="All Soccer Events | Italy - Serie C : Casertana vs Atalanta II (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Casertana_vs_Atalanta II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Casertana vs Atalanta II (16:30)
+https://daddyhd.com/watch.php?id=1
 
 #EXTINF:-1 tvg-id="italyserieccasertanavsatalantaii" tvg-name="All Soccer Events | Italy - Serie C : Casertana vs Atalanta II (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Casertana_vs_Atalanta II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Casertana vs Atalanta II (16:30)
-https://dlhd.dad/watch.php?id=1
-
-#EXTINF:-1 tvg-id="italyserieccasertanavsatalantaii" tvg-name="All Soccer Events | Italy - Serie C : Casertana vs Atalanta II (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Casertana_vs_Atalanta II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Casertana vs Atalanta II (16:30)
-https://dlhd.dad/watch.php?id=461
+https://daddyhd.com/watch.php?id=461
 
 #EXTINF:-1 tvg-id="italycoppaitalianapolivscagliari" tvg-name="All Soccer Events | Italy - Coppa Italia : Napoli vs Cagliari (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Cagliari.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia : Napoli vs Cagliari (17:00)
-https://dlhd.dad/watch.php?id=854
+https://daddyhd.com/watch.php?id=854
 
-#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsinterii" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Inter II (17:30)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUOpuO8J4aZplojDiLNycimES3khYrFsJeBJfJtSUIPiXQWm05qN88TR01DVuxnJD3QruxGN0Cewi_xaKGlFpRi6UwY7dpPkFzwjUKTns6l1g0xdJWbV_rqXg4a05WNpM9Xu3nbf9b2rE6pS1yhI8gxE9rHodmufZqQhNshNAwsaORGkMq-jEPuOQLid9m/s900/enrosadira dolomiti dove vederla.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Inter II (17:30)
-https://dlhd.dad/watch.php?id=4
+#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsinterii" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Inter II (17:30)" tvg-logo="https://cdn.milenio.com/uploads/media/2022/02/16/escudo-nuevo-inter-de-milan.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Inter II (17:30)
+https://daddyhd.com/watch.php?id=4
 
-#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsinterii" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Inter II (17:30)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUOpuO8J4aZplojDiLNycimES3khYrFsJeBJfJtSUIPiXQWm05qN88TR01DVuxnJD3QruxGN0Cewi_xaKGlFpRi6UwY7dpPkFzwjUKTns6l1g0xdJWbV_rqXg4a05WNpM9Xu3nbf9b2rE6pS1yhI8gxE9rHodmufZqQhNshNAwsaORGkMq-jEPuOQLid9m/s900/enrosadira dolomiti dove vederla.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Inter II (17:30)
-https://dlhd.dad/watch.php?id=870
+#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsinterii" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Inter II (17:30)" tvg-logo="https://cdn.milenio.com/uploads/media/2022/02/16/escudo-nuevo-inter-de-milan.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Inter II (17:30)
+https://daddyhd.com/watch.php?id=870
 
 #EXTINF:-1 tvg-id="englandpremierleaguewolverhamptonwanderersvsnottinghamforest" tvg-name="All Soccer Events | England - Premier League : Wolverhampton Wanderers vs Nottingham Forest (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wolverhampton Wanderers_vs_Nottingham Forest.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Wolverhampton Wanderers vs Nottingham Forest (19:30)
-https://dlhd.dad/watch.php?id=8
+https://daddyhd.com/watch.php?id=8
 
 #EXTINF:-1 tvg-id="englandpremierleaguearsenalvsbrentford" tvg-name="All Soccer Events | England - Premier League : Arsenal vs Brentford (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arsenal_vs_Brentford.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Arsenal vs Brentford (19:30)
-https://dlhd.dad/watch.php?id=461
+https://daddyhd.com/watch.php?id=461
 
 #EXTINF:-1 tvg-id="englandpremierleaguebrightonamphovealbionvsastonvilla" tvg-name="All Soccer Events | England - Premier League : Brighton &amp; Hove Albion vs Aston Villa (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brighton &amp; Hove Albion_vs_Aston Villa.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Brighton &amp; Hove Albion vs Aston Villa (19:30)
-https://dlhd.dad/watch.php?id=1
+https://daddyhd.com/watch.php?id=1
 
 #EXTINF:-1 tvg-id="englandpremierleagueburnleyvscrystalpalace" tvg-name="All Soccer Events | England - Premier League : Burnley vs Crystal Palace (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Burnley_vs_Crystal Palace.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Burnley vs Crystal Palace (19:30)
-https://dlhd.dad/watch.php?id=10
+https://daddyhd.com/watch.php?id=10
 
-#EXTINF:-1 tvg-id="germanydfbpokalunionberlinvsbayernmünchen" tvg-name="All Soccer Events | Germany - DFB Pokal : Union Berlin vs Bayern München (19:45)" tvg-logo="https://psacunion.ca/sites/psac/files/2022-ouv-vol-16-1-web03_strengthbehindunion_0.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - DFB Pokal : Union Berlin vs Bayern München (19:45)
-https://dlhd.dad/watch.php?id=460
+#EXTINF:-1 tvg-id="germanydfbpokalunionberlinvsbayernmünchen" tvg-name="All Soccer Events | Germany - DFB Pokal : Union Berlin vs Bayern München (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Berlin_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - DFB Pokal : Union Berlin vs Bayern München (19:45)
+https://daddyhd.com/watch.php?id=460
 
 #EXTINF:-1 tvg-id="italycoppaitaliainternazionalevsvenezia" tvg-name="All Soccer Events | Italy - Coppa Italia : Internazionale vs Venezia (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Venezia.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia : Internazionale vs Venezia (20:00)
-https://dlhd.dad/watch.php?id=854
+https://daddyhd.com/watch.php?id=854
 
 #EXTINF:-1 tvg-id="englandpremierleagueliverpoolvssunderland" tvg-name="All Soccer Events | England - Premier League : Liverpool vs Sunderland (20:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Sunderland.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Liverpool vs Sunderland (20:15)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="ukchampionshipround2" tvg-name="Snooker | UK Championship | Round 2 (12:45)" tvg-logo="https://www.classicalfinance.com/content/images/size/w1600/2022/09/mapof-theuk-1.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 2 (12:45)
-https://dlhd.dad/watch.php?id=878
+https://daddyhd.com/watch.php?id=870
 
 #EXTINF:-1 tvg-id="ukchampionshipround2" tvg-name="Snooker | UK Championship | Round 2 (18:45)" tvg-logo="https://www.classicalfinance.com/content/images/size/w1600/2022/09/mapof-theuk-1.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 2 (18:45)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="ibuworldcupostersundmen20kmindividualcompetitionibuworldcupostersund" tvg-name="Biathlon | IBU World Cup Ostersund Men 20 km Individual Competition | IBU World Cup Ostersund (13:30)" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png" group-title="Eventi Live DLHD",Biathlon | IBU World Cup Ostersund Men 20 km Individual Competition | IBU World Cup Ostersund (13:30)
-https://dlhd.dad/watch.php?id=879
+https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="seriea1cuneovolleyvsmilano" tvg-name="Volleyball | Serie A1 : Cuneo Volley vs Milano (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cuneo Volley_vs_Milano.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Cuneo Volley vs Milano (19:30)
-https://dlhd.dad/watch.php?id=462
+https://daddyhd.com/watch.php?id=462
 
 #EXTINF:-1 tvg-id="seriea1vvmonzavsvolleycivitanova" tvg-name="Volleyball | Serie A1 : VV Monza vs. Volley Civitanova (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/VV Monza_vs_Volley Civitanova.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : VV Monza vs. Volley Civitanova (19:45)
-https://dlhd.dad/watch.php?id=882
+https://daddyhd.com/watch.php?id=882
 
 #EXTINF:-1 tvg-id="lenchampionsleaguejadranhnvsprorecco" tvg-name="Water polo | LEN Champions League : Jadran HN vs Pro Recco (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Jadran HN_vs_Pro Recco.png" group-title="Eventi Live DLHD",Water polo | LEN Champions League : Jadran HN vs Pro Recco (17:30)
-https://dlhd.dad/watch.php?id=460
+https://daddyhd.com/watch.php?id=460
 
