@@ -137656,5 +137656,532 @@
       10749
     ],
     "cached_at": "2025-12-02T06:24:44.517494"
+  },
+  "397278": {
+    "id": 397278,
+    "title": "Fender Bender",
+    "release_date": "2016-05-23",
+    "vote_average": 5.1,
+    "poster_path": "/92VjZqSkaUDpXvrAiMZRGIxBFLU.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-12-03T06:24:11.289142"
+  },
+  "1425791": {
+    "id": 1425791,
+    "title": "Hold On",
+    "release_date": "2016-01-01",
+    "vote_average": 0.0,
+    "poster_path": null,
+    "genre_ids": [],
+    "cached_at": "2025-12-03T06:24:11.339931"
+  },
+  "373072": {
+    "id": 373072,
+    "title": "Tickled: Il lato oscuro del solletico",
+    "release_date": "2016-05-26",
+    "vote_average": 7.165,
+    "poster_path": "/qxUbPwyhzNEyUZYOZm6t8yYSQf.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-03T06:24:11.339947"
+  },
+  "257345": {
+    "id": 257345,
+    "title": "The Darkness",
+    "release_date": "2016-05-13",
+    "vote_average": 4.773,
+    "poster_path": "/7i7yuJoXCv12rQwYdSWcImhryrL.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-12-03T06:24:11.346345"
+  },
+  "300672": {
+    "id": 300672,
+    "title": "Vincent N Roxxy",
+    "release_date": "2016-04-18",
+    "vote_average": 5.449,
+    "poster_path": "/yvCYeuFexKFHD6iAxFUEfdGSBZ1.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "cached_at": "2025-12-03T06:24:11.404649"
+  },
+  "263341": {
+    "id": 263341,
+    "title": "La tigre e il dragone - La spada del destino",
+    "release_date": "2016-02-18",
+    "vote_average": 6.165,
+    "poster_path": "/yz7XPCgIdOOGYZG0M9BigwXg3sh.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18
+    ],
+    "cached_at": "2025-12-03T06:24:11.406097"
+  },
+  "392818": {
+    "id": 392818,
+    "title": "The Transfiguration",
+    "release_date": "2016-04-14",
+    "vote_average": 6.019,
+    "poster_path": "/mDSfmGdKnh2juq7hvnJKbyn5GqV.jpg",
+    "genre_ids": [
+      27,
+      18
+    ],
+    "cached_at": "2025-12-03T06:24:11.412600"
+  },
+  "290098": {
+    "id": 290098,
+    "title": "Mademoiselle",
+    "release_date": "2016-06-01",
+    "vote_average": 8.2,
+    "poster_path": "/1oAhyXfE3ytjS6PxUjg5Yx2DtO8.jpg",
+    "genre_ids": [
+      53,
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-03T06:24:11.479560"
+  },
+  "296360": {
+    "id": 296360,
+    "title": "Amore e inganni",
+    "release_date": "2016-05-26",
+    "vote_average": 6.1,
+    "poster_path": "/wA7WllHjCBzucA8ETHM2gJdXIfz.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      35
+    ],
+    "cached_at": "2025-12-03T06:24:11.482282"
+  },
+  "392102": {
+    "id": 392102,
+    "title": "Mari favorevoli",
+    "release_date": "2016-04-09",
+    "vote_average": 8.3,
+    "poster_path": "/il1v7KCYHRpEDEVJQ4fsBrLPNcr.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-03T06:24:11.545513"
+  },
+  "356298": {
+    "id": 356298,
+    "title": "Don't Think Twice",
+    "release_date": "2016-07-22",
+    "vote_average": 6.4,
+    "poster_path": "/f8PuoewhI3qeROdfXSw2Utjf1On.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-03T06:24:11.548204"
+  },
+  "384798": {
+    "id": 384798,
+    "title": "Kill Command",
+    "release_date": "2016-05-13",
+    "vote_average": 5.65,
+    "poster_path": "/57pxaE9k7vMxVvuK5KpbpxVoRmN.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878,
+      53
+    ],
+    "cached_at": "2025-12-03T06:24:11.623850"
+  },
+  "369032": {
+    "id": 369032,
+    "title": "Carnage Park",
+    "release_date": "2016-07-01",
+    "vote_average": 5.271,
+    "poster_path": "/v5PNynq0yMJOWyu0WbZYHiU3Ez7.jpg",
+    "genre_ids": [
+      28,
+      80,
+      27,
+      53
+    ],
+    "cached_at": "2025-12-03T06:24:11.623864"
+  },
+  "380808": {
+    "id": 380808,
+    "title": "Zero Days",
+    "release_date": "2016-07-08",
+    "vote_average": 7.342,
+    "poster_path": "/xwQVkRJGCH59jGNPR78Aw8wzyZg.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-03T06:24:11.685730"
+  },
+  "348668": {
+    "id": 348668,
+    "title": "Conspiracy of Faith - Il messaggio nella bottiglia",
+    "release_date": "2016-03-03",
+    "vote_average": 7.0,
+    "poster_path": "/kXlSFaEbWu7d1x0ycMbuj0qdHmE.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53
+    ],
+    "cached_at": "2025-12-03T06:24:11.691010"
+  },
+  "1590455": {
+    "id": 1590455,
+    "title": "Efendiler",
+    "release_date": "2025-11-29",
+    "vote_average": 0.0,
+    "poster_path": "/A3Fuj4tcfDIi2yi9hASLi6LgJaA.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-03T06:24:11.759599"
+  },
+  "382997": {
+    "id": 382997,
+    "title": "Onda su onda",
+    "release_date": "2016-02-18",
+    "vote_average": 4.7,
+    "poster_path": "/tXpjzaYWIKWFmbyZTmnNRJKs1M2.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-03T06:24:11.766327"
+  },
+  "325302": {
+    "id": 325302,
+    "title": "They Look Like People",
+    "release_date": "2016-02-26",
+    "vote_average": 6.257,
+    "poster_path": "/srfpn9OxEOpTpsKAhkbA43RsWqj.jpg",
+    "genre_ids": [
+      18,
+      27,
+      9648
+    ],
+    "cached_at": "2025-12-03T06:24:11.830123"
+  },
+  "387801": {
+    "id": 387801,
+    "title": "La región salvaje",
+    "release_date": "2016-05-15",
+    "vote_average": 5.931,
+    "poster_path": "/bFI6T2hLZgTYCWXIoxrHa2aJKqL.jpg",
+    "genre_ids": [
+      878,
+      18,
+      53,
+      27
+    ],
+    "cached_at": "2025-12-03T06:24:11.837902"
+  },
+  "10207": {
+    "id": 10207,
+    "title": "Le parole che non ti ho detto",
+    "release_date": "1999-02-22",
+    "vote_average": 6.267,
+    "poster_path": "/xvirti7b4QvBaE14Wt7jb88ZJ5a.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2025-12-03T06:24:11.905098"
+  },
+  "399894": {
+    "id": 399894,
+    "title": "Daylight's End",
+    "release_date": "2016-04-16",
+    "vote_average": 5.8,
+    "poster_path": "/sNDodM6si97uhiPhf5dTM6n6aDj.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878
+    ],
+    "cached_at": "2025-12-03T06:24:11.905113"
+  },
+  "342521": {
+    "id": 342521,
+    "title": "Keanu",
+    "release_date": "2016-04-29",
+    "vote_average": 6.058,
+    "poster_path": "/dPWlBmCixh9k3Jjb7c7jkIaxBbL.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "cached_at": "2025-12-03T06:24:11.974022"
+  },
+  "369697": {
+    "id": 369697,
+    "title": "L'incredibile vita di Norman",
+    "release_date": "2016-04-14",
+    "vote_average": 5.5,
+    "poster_path": "/lURVyi5JTA0X1XbEunpapAba6uY.jpg",
+    "genre_ids": [
+      35,
+      53,
+      18
+    ],
+    "cached_at": "2025-12-03T06:24:11.984170"
+  },
+  "264402": {
+    "id": 264402,
+    "title": "La 4ª compañía",
+    "release_date": "2017-01-13",
+    "vote_average": 6.0,
+    "poster_path": "/wykPRhCP2kJ036kH3iiUAGFjDi5.jpg",
+    "genre_ids": [
+      18,
+      28,
+      80
+    ],
+    "cached_at": "2025-12-03T06:24:12.041450"
+  },
+  "334538": {
+    "id": 334538,
+    "title": "Into the Forest",
+    "release_date": "2016-06-03",
+    "vote_average": 5.838,
+    "poster_path": "/1em8a6eIbnC78lmYcKmACCkp5hd.jpg",
+    "genre_ids": [
+      18,
+      878
+    ],
+    "cached_at": "2025-12-03T06:24:12.048824"
+  },
+  "329718": {
+    "id": 329718,
+    "title": "Altamira",
+    "release_date": "2016-04-01",
+    "vote_average": 5.8,
+    "poster_path": "/rukl7NRbxkx047DBOlDSln6gCrv.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "cached_at": "2025-12-03T06:24:12.056330"
+  },
+  "315664": {
+    "id": 315664,
+    "title": "Florence",
+    "release_date": "2016-05-06",
+    "vote_average": 6.7,
+    "poster_path": "/q3BQBGqSlWcvlZ0qwwYmfNQtXnI.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-03T06:24:12.111605"
+  },
+  "313922": {
+    "id": 313922,
+    "title": "Green Room",
+    "release_date": "2016-04-15",
+    "vote_average": 6.7,
+    "poster_path": "/xk7fPBaOG8P38yLrfCGXuVXbbvB.jpg",
+    "genre_ids": [
+      27,
+      80,
+      53
+    ],
+    "cached_at": "2025-12-03T06:24:12.122502"
+  },
+  "353728": {
+    "id": 353728,
+    "title": "Closet Monster",
+    "release_date": "2016-07-15",
+    "vote_average": 7.07,
+    "poster_path": "/mJYAloVKf20Ko5OE9F9VSfAvmXY.jpg",
+    "genre_ids": [
+      18,
+      14,
+      9648
+    ],
+    "cached_at": "2025-12-03T06:24:12.130108"
+  },
+  "274504": {
+    "id": 274504,
+    "title": "Le verità sospese",
+    "release_date": "2016-04-15",
+    "vote_average": 5.3,
+    "poster_path": "/rggWixFAHCP3QEKlXgf3ETQ4CHt.jpg",
+    "genre_ids": [
+      53,
+      10749
+    ],
+    "cached_at": "2025-12-03T06:24:12.186957"
+  },
+  "377213": {
+    "id": 377213,
+    "title": "Te3n",
+    "release_date": "2016-06-10",
+    "vote_average": 6.868,
+    "poster_path": "/gSkghZtZygWBTmv6DQVKcn69mUZ.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      80
+    ],
+    "cached_at": "2025-12-03T06:24:12.191986"
+  },
+  "205588": {
+    "id": 205588,
+    "title": "Il traditore tipo",
+    "release_date": "2016-05-05",
+    "vote_average": 6.059,
+    "poster_path": "/oea0NhdkgOcComv5nGDiQAjSvhm.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2025-12-03T06:24:12.261320"
+  },
+  "374671": {
+    "id": 374671,
+    "title": "Ritratto di famiglia con tempesta",
+    "release_date": "2016-05-21",
+    "vote_average": 7.177,
+    "poster_path": "/1h6lAdzSfxCoMiavILtbohzDEj7.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-03T06:24:12.327301"
+  },
+  "381167": {
+    "id": 381167,
+    "title": "Churchill's Secret",
+    "release_date": "2016-02-29",
+    "vote_average": 6.3,
+    "poster_path": "/1N53Kw74mGfa8LhBtrpFLhg3lXm.jpg",
+    "genre_ids": [
+      36,
+      10770,
+      18
+    ],
+    "cached_at": "2025-12-03T06:24:12.334508"
+  },
+  "374458": {
+    "id": 374458,
+    "title": "Un padre, una figlia",
+    "release_date": "2016-05-20",
+    "vote_average": 6.7,
+    "poster_path": "/g53u5584Y2tWfLZxx41jbIxnvTL.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-03T06:24:12.424349"
+  },
+  "351454": {
+    "id": 351454,
+    "title": "Neruda",
+    "release_date": "2016-08-11",
+    "vote_average": 6.3,
+    "poster_path": "/8VSWkHxIqzNfvzhwmXYQlQq7FyQ.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-03T06:24:12.471323"
+  },
+  "388347": {
+    "id": 388347,
+    "title": "The Call Up",
+    "release_date": "2016-05-20",
+    "vote_average": 5.135,
+    "poster_path": "/llnI8LlA0ct9HILRgUHd70xoTwh.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "cached_at": "2025-12-03T06:24:12.541499"
+  },
+  "360030": {
+    "id": 360030,
+    "title": "Lo and Behold - Internet: il futuro è oggi",
+    "release_date": "2016-03-04",
+    "vote_average": 6.5,
+    "poster_path": "/txyyVTKeJAvLKTYNFoD3gTuOTgI.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-03T06:24:12.612783"
+  },
+  "374465": {
+    "id": 374465,
+    "title": "Le cose che verranno",
+    "release_date": "2016-04-06",
+    "vote_average": 6.5,
+    "poster_path": "/ajmOrE45YbatzvAYW1WvyFFu3KB.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-03T06:24:12.687774"
+  },
+  "331583": {
+    "id": 331583,
+    "title": "Una doppia verità",
+    "release_date": "2016-03-25",
+    "vote_average": 6.54,
+    "poster_path": "/ljOPbX86VuVNv6c0dn55CPqPRFZ.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "cached_at": "2025-12-03T06:24:12.755151"
+  },
+  "401123": {
+    "id": 401123,
+    "title": "Beta Test",
+    "release_date": "2016-07-22",
+    "vote_average": 5.22,
+    "poster_path": "/zKisJfMxpp0KfX4P3VyDrH0edg6.jpg",
+    "genre_ids": [
+      53,
+      28,
+      878
+    ],
+    "cached_at": "2025-12-03T06:24:12.826873"
+  },
+  "328429": {
+    "id": 328429,
+    "title": "Vicini all'ignoto",
+    "release_date": "2016-06-03",
+    "vote_average": 5.297,
+    "poster_path": "/pzIUoJVnxjoSVKDwL3TOUYQBD8S.jpg",
+    "genre_ids": [
+      53,
+      18,
+      878
+    ],
+    "cached_at": "2025-12-03T06:24:12.898029"
+  },
+  "279641": {
+    "id": 279641,
+    "title": "Whiskey Tango Foxtrot",
+    "release_date": "2016-03-04",
+    "vote_average": 6.3,
+    "poster_path": "/3QutiiwuW0IxNsJoxtFKp3AUBC6.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10752
+    ],
+    "cached_at": "2025-12-03T06:24:12.972623"
   }
 }
