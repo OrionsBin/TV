@@ -53,9 +53,9 @@ Per utilizzare questa lista IPTV su Stremio, dovrai usare l'addon **OMG Premium 
    - **URL M3U**: Il link della lista M3U sopra indicato (se utilizzi EasyProxy metti la lista gia proxata)
    - **URL EPG**: Il link dell'EPG XML sopra indicato  
    - **Abilita EPG**: Metti la spunta su Abilita EPG
-   - **Proxy URL**: indirizzo del tuo MFP (lascia vuoto se utilizzi EasyProxy)
-   - **Proxy Password**: api_password del tuo MFP (lascia vuoto se utilizzi EasyProxy)
-   - **Forza Proxy**: SI (NO se utilizzi EasyProxy)
+   - **Proxy URL**: indirizzo del tuo Proxu
+   - **Proxy Password**: api_password del tuo Proxy
+   - **Forza Proxy**: SI
    - **Intervallo Aggiornamento Playlist**: Metti 02:00
 4. **Installa su Stremio** cliccando sul pulsante "INSTALLA SU STREMIO"
 
@@ -90,15 +90,7 @@ Avvia creando un fork della repository proxy.
 
 ### 🔁 Come proxare le liste con EasyProxy?
 
-Utilizza il Playlist Builder: https://<mfp-ip>/builder
-
-Questo ti permetterà di servire la lista M3U attraverso il tuo proxy personale in modo sicuro e performante.
-
----
-
-### 🔁 Come proxare le liste con Mediaflow-Proxy?
-
-Utilizza il Playlist Builder: https://<mfp-ip>/playlist/builder
+Utilizza il Playlist Builder: https://<ip>/builder
 
 Questo ti permetterà di servire la lista M3U attraverso il tuo proxy personale in modo sicuro e performante.
 
