@@ -1,19 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="italyseriectrentovscittadella" tvg-name="Soccer | Italy - Serie C : Trento vs Cittadella (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trento_vs_Cittadella.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Trento vs Cittadella (19:30)
-https://daddyhd.com/watch.php?id=108
-
-#EXTINF:-1 tvg-id="italyserieccataniavscrotone" tvg-name="Soccer | Italy - Serie C : Catania vs Crotone (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catania_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Catania vs Crotone (19:30)
-https://daddyhd.com/watch.php?id=109
-
-#EXTINF:-1 tvg-id="italyserieccataniavscrotone" tvg-name="Soccer | Italy - Serie C : Catania vs Crotone (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catania_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Catania vs Crotone (19:30)
-https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="franceligue1lillevsolympiquemarseille" tvg-name="Soccer | France - Ligue 1 : Lille vs Olympique Marseille (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lille_vs_Olympique Marseille.png" group-title="Eventi Live DLHD",Soccer | France - Ligue 1 : Lille vs Olympique Marseille (20:00)
-https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="seriea2uebcividalevsblubasket1971" tvg-name="Basketball | Serie A2 : Ueb Cividale vs. Blu Basket 1971 (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ueb Cividale_vs_Blu Basket 1971.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Ueb Cividale vs. Blu Basket 1971 (20:00)
-https://daddyhd.com/watch.php?id=882
-
