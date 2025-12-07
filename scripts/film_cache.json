@@ -139286,5 +139286,283 @@
       9648
     ],
     "cached_at": "2025-12-06T06:20:38.939056"
+  },
+  "263109": {
+    "id": 263109,
+    "title": "Shaun, vita da pecora - Il film",
+    "release_date": "2015-02-05",
+    "vote_average": 7.0,
+    "poster_path": "/5bhAotpzKC4614N5BIpprj11Bvp.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      35,
+      12
+    ],
+    "cached_at": "2025-12-07T06:20:55.952526"
+  },
+  "326359": {
+    "id": 326359,
+    "title": "Frozen Fever",
+    "release_date": "2015-03-09",
+    "vote_average": 6.8,
+    "poster_path": "/dJ9sxSn95KoWwErBrEILD3Lucg6.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      35
+    ],
+    "cached_at": "2025-12-07T06:20:56.019686"
+  },
+  "279690": {
+    "id": 279690,
+    "title": "He Never Died",
+    "release_date": "2015-12-18",
+    "vote_average": 6.232,
+    "poster_path": "/vzqwe4uuINJhbPqvlbVShBnCvHv.jpg",
+    "genre_ids": [
+      35,
+      18,
+      14,
+      27,
+      53
+    ],
+    "cached_at": "2025-12-07T06:20:56.094831"
+  },
+  "1196207": {
+    "id": 1196207,
+    "title": "Papà ha salvato il Natale 2",
+    "release_date": "2025-12-05",
+    "vote_average": 8.0,
+    "poster_path": "/76ZIgt8seQ0fdXdXg1tyAYK2ZIf.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "cached_at": "2025-12-07T06:20:56.122888"
+  },
+  "1360946": {
+    "id": 1360946,
+    "title": "Incanto",
+    "release_date": "2025-07-03",
+    "vote_average": 0.0,
+    "poster_path": "/AqjIBXRK5UN4rx7TItQRXjOxpHe.jpg",
+    "genre_ids": [
+      10751,
+      14
+    ],
+    "cached_at": "2025-12-07T06:20:56.158118"
+  },
+  "243938": {
+    "id": 243938,
+    "title": "Un tuffo nel passato 2",
+    "release_date": "2015-02-20",
+    "vote_average": 5.202,
+    "poster_path": "/3D12VaVcE4qYerQgzyAiUE016Xh.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-07T06:20:56.161946"
+  },
+  "297556": {
+    "id": 297556,
+    "title": "Justice League - Il trono di Atlantide",
+    "release_date": "2015-01-13",
+    "vote_average": 6.989,
+    "poster_path": "/7slmEUHfAby2u7UEFoiu9e2qFIQ.jpg",
+    "genre_ids": [
+      878,
+      28,
+      16,
+      12
+    ],
+    "cached_at": "2025-12-07T06:20:56.191641"
+  },
+  "293771": {
+    "id": 293771,
+    "title": "Dead Rising: Watchtower",
+    "release_date": "2015-03-27",
+    "vote_average": 5.148,
+    "poster_path": "/95gMn5GwR6rPHmmHfDyEs0pO2U7.jpg",
+    "genre_ids": [
+      27,
+      878,
+      28
+    ],
+    "cached_at": "2025-12-07T06:20:56.226696"
+  },
+  "318279": {
+    "id": 318279,
+    "title": "Meru",
+    "release_date": "2015-01-25",
+    "vote_average": 7.413,
+    "poster_path": "/oQsMMSTJnWneD9YwYbUbsJzbQ7f.jpg",
+    "genre_ids": [
+      12,
+      99
+    ],
+    "cached_at": "2025-12-07T06:20:56.228236"
+  },
+  "182560": {
+    "id": 182560,
+    "title": "Dark Places - Nei luoghi oscuri",
+    "release_date": "2015-04-08",
+    "vote_average": 5.931,
+    "poster_path": "/3k7o1bBfpnCzmff51zwreThu20c.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      18,
+      80
+    ],
+    "cached_at": "2025-12-07T06:20:56.259937"
+  },
+  "310001": {
+    "id": 310001,
+    "title": "Seoul Searching",
+    "release_date": "2015-01-30",
+    "vote_average": 6.953,
+    "poster_path": "/484oHzBz4ymDS5x1zvoH17DbECA.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2025-12-07T06:20:56.299243"
+  },
+  "283227": {
+    "id": 283227,
+    "title": "Le regole del caos",
+    "release_date": "2015-03-26",
+    "vote_average": 6.305,
+    "poster_path": "/mhkOrJF2pquawIgIOBZSsS7Ecfu.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-07T06:20:56.303249"
+  },
+  "319075": {
+    "id": 319075,
+    "title": "Cobain: Montage of Heck",
+    "release_date": "2015-03-23",
+    "vote_average": 7.6,
+    "poster_path": "/d0DgEvMNrGGlUXqyQ7HJbgnIxO7.jpg",
+    "genre_ids": [
+      99,
+      10402
+    ],
+    "cached_at": "2025-12-07T06:20:56.330657"
+  },
+  "244783": {
+    "id": 244783,
+    "title": "Song One",
+    "release_date": "2014-01-20",
+    "vote_average": 5.72,
+    "poster_path": "/nMKpc6HwtYkz1x7QdT1r2CPCY2t.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-07T06:20:56.369692"
+  },
+  "319995": {
+    "id": 319995,
+    "title": "Il club",
+    "release_date": "2015-05-28",
+    "vote_average": 6.859,
+    "poster_path": "/yiqRqmZXx2pE0QEJseZajvTeBQK.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53
+    ],
+    "cached_at": "2025-12-07T06:20:56.401559"
+  },
+  "11114": {
+    "id": 11114,
+    "title": "Elliott, il drago invisibile",
+    "release_date": "1977-11-03",
+    "vote_average": 6.298,
+    "poster_path": "/ohbd51m5rGrOZPD7pkuWhZkUxDx.jpg",
+    "genre_ids": [
+      14,
+      16,
+      35,
+      10751
+    ],
+    "cached_at": "2025-12-07T06:20:56.440171"
+  },
+  "321594": {
+    "id": 321594,
+    "title": "Louis C.K.: Live at The Comedy Store",
+    "release_date": "2015-01-27",
+    "vote_average": 7.393,
+    "poster_path": "/9ULqaND2rzNFL4OAxCbSrY7UWem.jpg",
+    "genre_ids": [
+      35,
+      10770
+    ],
+    "cached_at": "2025-12-07T06:20:56.445207"
+  },
+  "1392796": {
+    "id": 1392796,
+    "title": "Diario di una Schiappa: Ora basta!",
+    "release_date": "2025-12-04",
+    "vote_average": 7.4,
+    "poster_path": "/4bgcPgJRi3soUfKhwcSbYAcVUd8.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ],
+    "cached_at": "2025-12-07T06:20:56.475970"
+  },
+  "1572017": {
+    "id": 1572017,
+    "title": "Love and Wine",
+    "release_date": "2025-12-05",
+    "vote_average": 6.5,
+    "poster_path": "/aRJrEffxIoplzUwzVsWvFDTQgvK.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2025-12-07T06:20:56.514017"
+  },
+  "268238": {
+    "id": 268238,
+    "title": "Ritorno al Marigold Hotel",
+    "release_date": "2015-02-26",
+    "vote_average": 6.426,
+    "poster_path": "/1m3o8mtEg4Xor6CWOs3l6Q7Y0t2.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2025-12-07T06:20:56.515414"
+  },
+  "323694": {
+    "id": 323694,
+    "title": "Nina Forever",
+    "release_date": "2016-01-19",
+    "vote_average": 5.212,
+    "poster_path": "/oUPogoU682I7GFuar5qlHXj8j4p.jpg",
+    "genre_ids": [
+      27,
+      35,
+      10749
+    ],
+    "cached_at": "2025-12-07T06:20:56.587706"
+  },
+  "1423024": {
+    "id": 1423024,
+    "title": "The New Yorker at 100",
+    "release_date": "2025-08-29",
+    "vote_average": 4.5,
+    "poster_path": "/4vNUHGzIFxI267gFZpq3eM8m0bl.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-07T06:20:56.803589"
   }
 }
