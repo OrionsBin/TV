@@ -139767,5 +139767,552 @@
       10749
     ],
     "cached_at": "2025-12-08T06:26:25.243097"
+  },
+  "283161": {
+    "id": 283161,
+    "title": "Kahlil Gibran's The Prophet",
+    "release_date": "2014-09-06",
+    "vote_average": 7.357,
+    "poster_path": "/rkg2thsR4r4H02FVVW1M1FyqhpL.jpg",
+    "genre_ids": [
+      16
+    ],
+    "cached_at": "2025-12-09T06:24:28.837314"
+  },
+  "243684": {
+    "id": 243684,
+    "title": "Men, Women & Children",
+    "release_date": "2014-10-17",
+    "vote_average": 6.5,
+    "poster_path": "/nZuo5dQjjWnQJtf3Wmvv7BQW1cj.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2025-12-09T06:24:28.849373"
+  },
+  "276843": {
+    "id": 276843,
+    "title": "La nostra vacanza in Scozia",
+    "release_date": "2014-09-26",
+    "vote_average": 6.7,
+    "poster_path": "/A0qB9ITsd2sonFXvkQ9P15WHDJk.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-09T06:24:28.922095"
+  },
+  "68728": {
+    "id": 68728,
+    "title": "Il grande e potente Oz",
+    "release_date": "2013-03-07",
+    "vote_average": 5.9,
+    "poster_path": "/F7aPGE4dP45Ha5ojVJo15mMTlt.jpg",
+    "genre_ids": [
+      14,
+      12,
+      10751
+    ],
+    "cached_at": "2025-12-09T06:24:28.942342"
+  },
+  "244264": {
+    "id": 244264,
+    "title": "Dimmi quando",
+    "release_date": "2014-09-25",
+    "vote_average": 6.1,
+    "poster_path": "/kL2ccASO8O6v92gGTaaY5gOCAI4.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-09T06:24:28.944716"
+  },
+  "1400382": {
+    "id": 1400382,
+    "title": "Predators",
+    "release_date": "2025-09-19",
+    "vote_average": 5.0,
+    "poster_path": "/epjqcM33F3PKRZmj3KbpsXlJ3gY.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-09T06:24:29.013967"
+  },
+  "284284": {
+    "id": 284284,
+    "title": "The Keeping Room",
+    "release_date": "2014-09-25",
+    "vote_average": 5.765,
+    "poster_path": "/5hj2RoLiD31AuUfnYKA2HBlIb6n.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "cached_at": "2025-12-09T06:24:29.054850"
+  },
+  "286654": {
+    "id": 286654,
+    "title": "Reclaim - Prenditi ciò che è tuo",
+    "release_date": "2014-09-19",
+    "vote_average": 5.252,
+    "poster_path": "/cphb4lOZwv7Dt15YjysaaGQbiXg.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2025-12-09T06:24:29.083936"
+  },
+  "253312": {
+    "id": 253312,
+    "title": "Space Station 76",
+    "release_date": "2014-09-19",
+    "vote_average": 4.9,
+    "poster_path": "/dejv1KPmIhyTD8O8Tpoz3LlziH3.jpg",
+    "genre_ids": [
+      18,
+      35,
+      878
+    ],
+    "cached_at": "2025-12-09T06:24:29.086063"
+  },
+  "284537": {
+    "id": 284537,
+    "title": "Welcome to Me",
+    "release_date": "2015-05-01",
+    "vote_average": 5.809,
+    "poster_path": "/pGZV5m7T8NzNC4V2gk304W5SpVX.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-09T06:24:29.156759"
+  },
+  "265010": {
+    "id": 265010,
+    "title": "Il canale",
+    "release_date": "2014-10-10",
+    "vote_average": 5.76,
+    "poster_path": "/gpz4ZsffiD2tkO80WzQBcA1NoI6.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2025-12-09T06:24:29.160319"
+  },
+  "297608": {
+    "id": 297608,
+    "title": "The Taking of Deborah Logan",
+    "release_date": "2014-10-21",
+    "vote_average": 6.6,
+    "poster_path": "/77i7EBUyQKOUiZeYQ5tWDGQb0AI.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "cached_at": "2025-12-09T06:24:29.196412"
+  },
+  "245916": {
+    "id": 245916,
+    "title": "La regola del gioco",
+    "release_date": "2014-10-09",
+    "vote_average": 6.615,
+    "poster_path": "/vQuXmEBi6moLkj17eayioqiI53Q.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53,
+      36
+    ],
+    "cached_at": "2025-12-09T06:24:29.228898"
+  },
+  "1586820": {
+    "id": 1586820,
+    "title": "Elmo and Mark Rober's Merry Giftmas",
+    "release_date": "2025-12-08",
+    "vote_average": 0.0,
+    "poster_path": "/euxdqNgYZ0GYdUoQ9RX8iTWSqDg.jpg",
+    "genre_ids": [
+      10751,
+      10770
+    ],
+    "cached_at": "2025-12-09T06:24:29.231528"
+  },
+  "241843": {
+    "id": 241843,
+    "title": "Cooties",
+    "release_date": "2014-10-10",
+    "vote_average": 5.894,
+    "poster_path": "/qnH3SCfb3ePz9qM8BvBtq9JLLXY.jpg",
+    "genre_ids": [
+      35,
+      27,
+      28,
+      878,
+      53
+    ],
+    "cached_at": "2025-12-09T06:24:29.298374"
+  },
+  "293310": {
+    "id": 293310,
+    "title": "Citizenfour",
+    "release_date": "2014-10-10",
+    "vote_average": 7.7,
+    "poster_path": "/6GJ8hoM7GdHiuqi72cvYqdOv8EG.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-09T06:24:29.368875"
+  },
+  "244403": {
+    "id": 244403,
+    "title": "Ti lascio la mia canzone",
+    "release_date": "2014-10-17",
+    "vote_average": 7.2,
+    "poster_path": "/flFXJ2PQAUje6zLz3S7SiIKwD6J.jpg",
+    "genre_ids": [
+      10402,
+      18,
+      35
+    ],
+    "cached_at": "2025-12-09T06:24:29.371292"
+  },
+  "303126": {
+    "id": 303126,
+    "title": "레드카펫",
+    "release_date": "2014-10-23",
+    "vote_average": 5.9,
+    "poster_path": "/vX57D3zcZQPUuuVjkli3GU0BX5O.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "cached_at": "2025-12-09T06:24:29.413966"
+  },
+  "239563": {
+    "id": 239563,
+    "title": "St. Vincent",
+    "release_date": "2014-10-09",
+    "vote_average": 7.115,
+    "poster_path": "/1bb7MTHCIPhpKZFysDpxNaNrdMk.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-09T06:24:29.441162"
+  },
+  "283700": {
+    "id": 283700,
+    "title": "Pasolini",
+    "release_date": "2014-09-25",
+    "vote_average": 5.7,
+    "poster_path": "/s9A68iTPy5gQbp3AD2wfUh7EqGU.jpg",
+    "genre_ids": [
+      36,
+      18
+    ],
+    "cached_at": "2025-12-09T06:24:29.443596"
+  },
+  "218778": {
+    "id": 218778,
+    "title": "Una fantastica e incredibile giornata da dimenticare",
+    "release_date": "2014-10-08",
+    "vote_average": 6.208,
+    "poster_path": "/g7w4FYOnKpJChEMLqXPVIIv91fT.jpg",
+    "genre_ids": [
+      10751,
+      35
+    ],
+    "cached_at": "2025-12-09T06:24:29.483769"
+  },
+  "297745": {
+    "id": 297745,
+    "title": "...E fuori nevica!",
+    "release_date": "2014-10-16",
+    "vote_average": 6.0,
+    "poster_path": "/kUIK94dc66ER57Ri6foVkWwDuQw.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-09T06:24:29.513877"
+  },
+  "220471": {
+    "id": 220471,
+    "title": "Where the Devil Hides",
+    "release_date": "2014-10-10",
+    "vote_average": 5.177,
+    "poster_path": "/ic6svq6tIufnSDPXxo9f4odYzpu.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-12-09T06:24:29.516832"
+  },
+  "287084": {
+    "id": 287084,
+    "title": "La città che aveva paura",
+    "release_date": "2014-10-16",
+    "vote_average": 5.8,
+    "poster_path": "/dRmEIURRtB1Occ0mTomTky6MyB3.jpg",
+    "genre_ids": [
+      53,
+      27
+    ],
+    "cached_at": "2025-12-09T06:24:29.555006"
+  },
+  "284427": {
+    "id": 284427,
+    "title": "Who Am I - No System Is Safe",
+    "release_date": "2014-09-25",
+    "vote_average": 7.58,
+    "poster_path": "/kqzCVVhDs31lZgfaZZn6a6zfEY7.jpg",
+    "genre_ids": [
+      53
+    ],
+    "cached_at": "2025-12-09T06:24:29.583076"
+  },
+  "300467": {
+    "id": 300467,
+    "title": "Caccia al mostro",
+    "release_date": "2014-10-17",
+    "vote_average": 5.594,
+    "poster_path": "/xSC7sWXbafOCa24itOHTpKXwOAV.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-12-09T06:24:29.586715"
+  },
+  "290642": {
+    "id": 290642,
+    "title": "Never Die Young",
+    "release_date": "2014-09-24",
+    "vote_average": 7.5,
+    "poster_path": "/m7aEfWM9sggrDCTmzOTJKQIdiRg.jpg",
+    "genre_ids": [
+      99,
+      18
+    ],
+    "cached_at": "2025-12-09T06:24:29.627481"
+  },
+  "11892": {
+    "id": 11892,
+    "title": "Formula per un delitto",
+    "release_date": "2002-04-19",
+    "vote_average": 6.169,
+    "poster_path": "/4EV0NPCK7cVDUBZi6Q8CmJ7gei0.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2025-12-09T06:24:29.654215"
+  },
+  "282296": {
+    "id": 282296,
+    "title": "My Old Lady",
+    "release_date": "2014-09-09",
+    "vote_average": 6.201,
+    "poster_path": "/hPLAUrmJkXdv1sEtIqk9EwXvmbH.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "cached_at": "2025-12-09T06:24:29.659141"
+  },
+  "265016": {
+    "id": 265016,
+    "title": "Extraterrestrial",
+    "release_date": "2014-10-17",
+    "vote_average": 5.48,
+    "poster_path": "/mmiG916iIh6w378qBjRfTonqOWb.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "cached_at": "2025-12-09T06:24:29.698269"
+  },
+  "270302": {
+    "id": 270302,
+    "title": "Posh",
+    "release_date": "2014-09-19",
+    "vote_average": 5.9,
+    "poster_path": "/7x2vuxcikd8H8kNY1UipLrcMQDN.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-09T06:24:29.727739"
+  },
+  "236735": {
+    "id": 236735,
+    "title": "La isla minima",
+    "release_date": "2014-09-25",
+    "vote_average": 7.035,
+    "poster_path": "/pfsCM5lrOfSXHRW3QdSJwr2Latd.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      53
+    ],
+    "cached_at": "2025-12-09T06:24:29.768925"
+  },
+  "286875": {
+    "id": 286875,
+    "title": "Paper Planes - Ai confini del cielo",
+    "release_date": "2014-08-10",
+    "vote_average": 5.992,
+    "poster_path": "/3AxkZJWrsnjJQH4K5k09xd9Iz5V.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      18
+    ],
+    "cached_at": "2025-12-09T06:24:29.799990"
+  },
+  "1228246": {
+    "id": 1228246,
+    "title": "Five Nights at Freddy's 2",
+    "release_date": "2025-12-03",
+    "vote_average": 6.4,
+    "poster_path": "/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-12-09T06:24:29.806188"
+  },
+  "250225": {
+    "id": 250225,
+    "title": "The Duke of Burgundy",
+    "release_date": "2014-10-18",
+    "vote_average": 6.3,
+    "poster_path": "/gUxyr5zfglwUE8Xod7yYiY1zNqQ.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10749
+    ],
+    "cached_at": "2025-12-09T06:24:29.869719"
+  },
+  "312791": {
+    "id": 312791,
+    "title": "GirlHouse",
+    "release_date": "2014-10-16",
+    "vote_average": 6.0,
+    "poster_path": "/4zR3QYWoeY2mTwVWnVxUQQptqdM.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "cached_at": "2025-12-09T06:24:29.943455"
+  },
+  "255157": {
+    "id": 255157,
+    "title": "The Forger - Il falsario",
+    "release_date": "2014-09-10",
+    "vote_average": 5.815,
+    "poster_path": "/rH0NJQNMcdKjdpBSt2ibpDhctIX.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ],
+    "cached_at": "2025-12-09T06:24:29.943469"
+  },
+  "250066": {
+    "id": 250066,
+    "title": "American Heist",
+    "release_date": "2014-09-11",
+    "vote_average": 4.8,
+    "poster_path": "/526uxanwv4mMK0YTxjVrsmMXXo2.jpg",
+    "genre_ids": [
+      28
+    ],
+    "cached_at": "2025-12-09T06:24:30.011358"
+  },
+  "270005": {
+    "id": 270005,
+    "title": "By the Gun",
+    "release_date": "2014-09-28",
+    "vote_average": 4.3,
+    "poster_path": "/k5U1M1frRT1AnP89dYw4eBpoWfE.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2025-12-09T06:24:30.014725"
+  },
+  "110390": {
+    "id": 110390,
+    "title": "Un piccione seduto su un ramo riflette sull'esistenza",
+    "release_date": "2014-10-24",
+    "vote_average": 6.8,
+    "poster_path": "/hcqJoszHNyY7UfR2u2r2FGlqoiN.jpg",
+    "genre_ids": [
+      18,
+      35,
+      14
+    ],
+    "cached_at": "2025-12-09T06:24:30.083533"
+  },
+  "228108": {
+    "id": 228108,
+    "title": "Viaggio verso la libertà",
+    "release_date": "2014-10-24",
+    "vote_average": 6.9,
+    "poster_path": "/lBIfIUedkcMvkjqZczjOOwSMkbT.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-09T06:24:30.084307"
+  },
+  "412093": {
+    "id": 412093,
+    "title": "La ragazza del mondo",
+    "release_date": "2016-11-10",
+    "vote_average": 6.269,
+    "poster_path": "/2EB63zsR8QKVLIJpX5cVJGhKaPQ.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "cached_at": "2025-12-09T06:24:30.154948"
+  },
+  "283235": {
+    "id": 283235,
+    "title": "99 Homes",
+    "release_date": "2015-09-25",
+    "vote_average": 6.797,
+    "poster_path": "/zNFd9kwYTqYIgUBcN8dfIyaSrL5.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-09T06:24:30.178773"
+  },
+  "290382": {
+    "id": 290382,
+    "title": "Roger Waters  - The Wall",
+    "release_date": "2014-09-29",
+    "vote_average": 7.9,
+    "poster_path": "/oFPVC3ival04a9Yijm716QXOsCA.jpg",
+    "genre_ids": [
+      10402,
+      99
+    ],
+    "cached_at": "2025-12-09T06:24:30.227833"
+  },
+  "284276": {
+    "id": 284276,
+    "title": "Cake",
+    "release_date": "2014-09-07",
+    "vote_average": 6.277,
+    "poster_path": "/5GJEZovjtKisJxNMG6fBTCxNzZi.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-09T06:24:30.229028"
   }
 }
