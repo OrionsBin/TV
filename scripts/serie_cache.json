@@ -60585,5 +60585,54 @@
       35
     ],
     "cached_at": "2025-12-09T06:24:35.598637"
+  },
+  "62415": {
+    "id": 62415,
+    "name": "Piccole case da sogno",
+    "original_name": "Tiny House Nation",
+    "first_air_date": "2014-07-09",
+    "vote_average": 6.7,
+    "poster_path": "/s3qkjWFMmZC6TbjWhmP5nPxyw4k.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-12-10T06:24:56.823801"
+  },
+  "62923": {
+    "id": 62923,
+    "name": "Skin Wars",
+    "original_name": "Skin Wars",
+    "first_air_date": "2014-08-06",
+    "vote_average": 6.5,
+    "poster_path": "/3eZ8JhBlcab7TklqS1sL6YsvMoN.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-12-10T06:24:56.855379"
+  },
+  "217211": {
+    "id": 217211,
+    "name": "The Irrational",
+    "original_name": "The Irrational",
+    "first_air_date": "2023-09-25",
+    "vote_average": 6.6,
+    "poster_path": "/3TExp5RoGF0ce3rHMYUsrooOmO7.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "cached_at": "2025-12-10T06:24:56.892877"
+  },
+  "305379": {
+    "id": 305379,
+    "name": "ラヴ上等",
+    "original_name": "ラヴ上等",
+    "first_air_date": "2025-12-09",
+    "vote_average": 0.0,
+    "poster_path": "/iAGXAIlRhpgK4cqv51eUc9dCl8h.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-12-10T06:24:57.037188"
   }
 }
