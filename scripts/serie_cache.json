@@ -60735,5 +60735,78 @@
       10765
     ],
     "cached_at": "2025-12-12T06:24:52.786495"
+  },
+  "302919": {
+    "id": 302919,
+    "name": "Taylor Swift | The Eras Tour | The End of an Era",
+    "original_name": "Taylor Swift | The Eras Tour | The End of an Era",
+    "first_air_date": "2025-12-12",
+    "vote_average": 7.25,
+    "poster_path": "/pt8bLDrrsK7kZEFMDqKlJtxrMAP.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-13T06:22:00.719914"
+  },
+  "46923": {
+    "id": 46923,
+    "name": "Shetland",
+    "original_name": "Shetland",
+    "first_air_date": "2013-03-10",
+    "vote_average": 7.5,
+    "poster_path": "/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "cached_at": "2025-12-13T06:22:00.750839"
+  },
+  "307674": {
+    "id": 307674,
+    "name": "되어줄래? 나의 매니저",
+    "original_name": "되어줄래? 나의 매니저",
+    "first_air_date": "2025-12-12",
+    "vote_average": 0.0,
+    "poster_path": "/xJKF8yEFRNcdgqGbMMOIaRbHj9m.jpg",
+    "genre_ids": [],
+    "cached_at": "2025-12-13T06:22:00.827054"
+  },
+  "224523": {
+    "id": 224523,
+    "name": "Red Bull X-Alps",
+    "original_name": "Red Bull X-Alps",
+    "first_air_date": "2025-12-11",
+    "vote_average": 0.0,
+    "poster_path": "/4PmOyHGJWbGDylwTREFyGMMREbO.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-13T06:22:00.891856"
+  },
+  "277752": {
+    "id": 277752,
+    "name": "Città delle ombre",
+    "original_name": "Ciudad de sombras",
+    "first_air_date": "2025-12-12",
+    "vote_average": 0.0,
+    "poster_path": "/xVhLLJjnLbqtbJJuiq3ujrCFE0C.jpg",
+    "genre_ids": [
+      80,
+      9648
+    ],
+    "cached_at": "2025-12-13T06:22:00.969684"
+  },
+  "53441": {
+    "id": 53441,
+    "name": "空飛ぶ広報室",
+    "original_name": "空飛ぶ広報室",
+    "first_air_date": "2013-04-14",
+    "vote_average": 8.3,
+    "poster_path": "/f4OKwYUjGk6jDmmIctX4cVXnzxV.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-13T06:22:01.041750"
   }
 }
