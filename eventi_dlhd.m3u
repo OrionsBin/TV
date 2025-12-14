@@ -2,21 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieamilanvssassuolo" tvg-name="All Soccer Events | Italy - Serie A : Milan vs Sassuolo (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milan_vs_Sassuolo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Milan vs Sassuolo (11:30)
-https://daddyhd.com/watch.php?id=877
-
-#EXTINF:-1 tvg-id="italyseriecatalantaiivssorrento" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Sorrento (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Sorrento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Sorrento (11:30)
-https://daddyhd.com/watch.php?id=25
-
-#EXTINF:-1 tvg-id="italyseriecatalantaiivssorrento" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Sorrento (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Sorrento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Sorrento (11:30)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italyseriecinteriivsgianaerminio" tvg-name="All Soccer Events | Italy - Serie C : Inter II vs Giana Erminio (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Inter II_vs_Giana Erminio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Inter II vs Giana Erminio (11:30)
-https://daddyhd.com/watch.php?id=27
-
-#EXTINF:-1 tvg-id="italyseriecinteriivsgianaerminio" tvg-name="All Soccer Events | Italy - Serie C : Inter II vs Giana Erminio (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Inter II_vs_Giana Erminio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Inter II vs Giana Erminio (11:30)
-https://daddyhd.com/watch.php?id=870
-
 #EXTINF:-1 tvg-id="germanybundesliga2schalke04vsnürnberg" tvg-name="All Soccer Events | Germany - Bundesliga 2 : Schalke 04 vs Nürnberg (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Schalke 04_vs_Nürnberg.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga 2 : Schalke 04 vs Nürnberg (12:30)
 https://daddyhd.com/watch.php?id=460
 
@@ -29,7 +14,7 @@ https://daddyhd.com/watch.php?id=151
 #EXTINF:-1 tvg-id="italyseriecternanavsbra" tvg-name="All Soccer Events | Italy - Serie C : Ternana vs Bra (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Bra.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ternana vs Bra (13:30)
 https://daddyhd.com/watch.php?id=152
 
-#EXTINF:-1 tvg-id="italyseriecpontederavssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Pontedera vs Sambenedettese (13:30)" tvg-logo="https://vtrend.it/wp-content/uploads/2022/10/Wbcam-mercato-pontedera.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pontedera vs Sambenedettese (13:30)
+#EXTINF:-1 tvg-id="italyseriecpontederavssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Pontedera vs Sambenedettese (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pontedera_vs_Sambenedettese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pontedera vs Sambenedettese (13:30)
 https://daddyhd.com/watch.php?id=153
 
 #EXTINF:-1 tvg-id="italyseriecpotenzacalciovscatania" tvg-name="All Soccer Events | Italy - Serie C : Potenza Calcio vs Catania (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Potenza Calcio_vs_Catania.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Potenza Calcio vs Catania (13:30)
@@ -94,9 +79,6 @@ https://daddyhd.com/watch.php?id=877
 
 #EXTINF:-1 tvg-id="franceligue1olympiquemarseillevsmonaco" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Marseille vs Monaco (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Monaco.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Marseille vs Monaco (19:45)
 https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="slalomvaldisere" tvg-name="Alpine Ski | Slalom | Val d'Isere (11:45)" tvg-logo="https://media.npr.org/assets/img/2023/02/16/ap23047326900682_wide-98604c8000ff467fdc171736b5f7f163e0319de4-s1400-c100.jpg" group-title="Eventi Live DLHD",Alpine Ski | Slalom | Val d'Isere (11:45)
-https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="ucicyclocrossworldcupnamur" tvg-name="Cycling | UCI Cyclo-Cross World Cup Namur (12:30)" tvg-logo="https://www.howtowatchchannel.com/wp-content/uploads/2023/07/how-to-watch-uci-championship-in-usa-on-sbs.png" group-title="Eventi Live DLHD",Cycling | UCI Cyclo-Cross World Cup Namur (12:30)
 https://daddyhd.com/watch.php?id=879
