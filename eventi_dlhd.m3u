@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesligafreiburgvsborussiadortmund" tvg-name="All Soccer Events | Germany - Bundesliga : Freiburg vs Borussia Dortmund (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Freiburg_vs_Borussia Dortmund.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Freiburg vs Borussia Dortmund (14:30)
-https://daddyhd.com/watch.php?id=460
-
 #EXTINF:-1 tvg-id="germanybundesligabayernmünchenvsmainz05" tvg-name="All Soccer Events | Germany - Bundesliga : Bayern München vs Mainz 05 (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bayern München_vs_Mainz 05.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Bayern München vs Mainz 05 (16:30)
 https://daddyhd.com/watch.php?id=462
 
@@ -46,7 +43,4 @@ https://daddyhd.com/watch.php?id=877
 
 #EXTINF:-1 tvg-id="franceligue1olympiquemarseillevsmonaco" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Marseille vs Monaco (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Monaco.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Marseille vs Monaco (19:45)
 https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="individualcompetitionklingentalhs140" tvg-name="Ski Jumping | Individual competition | Klingental HS140 (14:30)" tvg-logo="https://cdn2.iconfinder.com/data/icons/sport-competition-linear-outline/4000/21-08-26-Paralympic-games-editable-stroke-31-512.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Klingental HS140 (14:30)
-https://daddyhd.com/watch.php?id=878
 
