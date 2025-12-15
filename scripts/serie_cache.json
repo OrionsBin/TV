@@ -60821,5 +60821,55 @@
       9648
     ],
     "cached_at": "2025-12-14T06:22:12.567232"
+  },
+  "67482": {
+    "id": 67482,
+    "name": "RuPaul's Drag Race All Stars",
+    "original_name": "RuPaul's Drag Race All Stars",
+    "first_air_date": "2012-10-22",
+    "vote_average": 7.3,
+    "poster_path": "/ArIu3xEo28LiKtiVWHNZdPFNZrM.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-12-15T06:27:12.967782"
+  },
+  "47813": {
+    "id": 47813,
+    "name": "Cuckoo",
+    "original_name": "Cuckoo",
+    "first_air_date": "2012-09-25",
+    "vote_average": 6.759,
+    "poster_path": "/eFBfQIouobewXiw5g1fWwwNt7t0.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-15T06:27:13.006156"
+  },
+  "67564": {
+    "id": 67564,
+    "name": "RuPaul's Drag Race All Stars: UNTUCKED",
+    "original_name": "RuPaul's Drag Race All Stars: UNTUCKED",
+    "first_air_date": "2012-10-23",
+    "vote_average": 5.5,
+    "poster_path": "/5LpE4jiIXtzt42I5NdE0blyeiwr.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-12-15T06:27:13.036668"
+  },
+  "46538": {
+    "id": 46538,
+    "name": "우리가 결혼할 수 있을까",
+    "original_name": "우리가 결혼할 수 있을까",
+    "first_air_date": "2012-10-29",
+    "vote_average": 6.9,
+    "poster_path": "/kUzQPje641Sw2gqUNiKapFfdjp3.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "cached_at": "2025-12-15T06:27:13.192847"
   }
 }

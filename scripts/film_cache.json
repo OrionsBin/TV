@@ -141601,5 +141601,68 @@
       28
     ],
     "cached_at": "2025-12-14T06:22:06.919556"
+  },
+  "48838": {
+    "id": 48838,
+    "title": "London Boulevard",
+    "release_date": "2010-11-10",
+    "vote_average": 5.882,
+    "poster_path": "/iFH4jIYubQeB2x6pFj6SYHdK74I.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2025-12-15T06:27:07.780330"
+  },
+  "142061": {
+    "id": 142061,
+    "title": "Batman: The Dark Knight Returns, Part 2",
+    "release_date": "2013-01-03",
+    "vote_average": 7.921,
+    "poster_path": "/arEZYd6uMOFTILne9Ux0A8qctMe.jpg",
+    "genre_ids": [
+      878,
+      28,
+      16,
+      9648
+    ],
+    "cached_at": "2025-12-15T06:27:07.852734"
+  },
+  "9569": {
+    "id": 9569,
+    "title": "Duro da uccidere",
+    "release_date": "1990-02-09",
+    "vote_average": 5.988,
+    "poster_path": "/RFHak4xDRYwIDJjgKdrZcL6J2s.jpg",
+    "genre_ids": [
+      28,
+      18,
+      80,
+      53
+    ],
+    "cached_at": "2025-12-15T06:27:07.894665"
+  },
+  "1290205": {
+    "id": 1290205,
+    "title": "แฟลตเกิร์ล ชั้นห่างระหว่าง เ ร า",
+    "release_date": "2025-02-06",
+    "vote_average": 7.1,
+    "poster_path": "/d3X1E1WzxWtwIvIy6WbyzCm7jaH.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-15T06:27:07.922923"
+  },
+  "140212": {
+    "id": 140212,
+    "title": "Confessioni di un assassino",
+    "release_date": "2012-11-08",
+    "vote_average": 7.148,
+    "poster_path": "/5s6B5o36cUSmmpc8UWseJ9zaQye.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "cached_at": "2025-12-15T06:27:08.079348"
   }
 }
