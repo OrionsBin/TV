@@ -60871,5 +60871,31 @@
       10751
     ],
     "cached_at": "2025-12-15T06:27:13.192847"
+  },
+  "138927": {
+    "id": 138927,
+    "name": "Tschugger",
+    "original_name": "Tschugger",
+    "first_air_date": "2021-11-28",
+    "vote_average": 8.2,
+    "poster_path": "/m3z5mDKJvJ8tDJCWQezC1JONF8y.jpg",
+    "genre_ids": [
+      80,
+      35
+    ],
+    "cached_at": "2025-12-16T06:25:07.373728"
+  },
+  "62117": {
+    "id": 62117,
+    "name": "Younger",
+    "original_name": "Younger",
+    "first_air_date": "2015-03-31",
+    "vote_average": 6.8,
+    "poster_path": "/feWw6i09zaX2apzRqd7QbKEAsx9.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "cached_at": "2025-12-16T06:25:07.428522"
   }
 }
