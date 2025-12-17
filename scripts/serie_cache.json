@@ -60897,5 +60897,75 @@
       35
     ],
     "cached_at": "2025-12-16T06:25:07.428522"
+  },
+  "34356": {
+    "id": 34356,
+    "name": "Tron - La serie",
+    "original_name": "TRON: Uprising",
+    "first_air_date": "2012-06-07",
+    "vote_average": 7.5,
+    "poster_path": "/dgajee1p38rJo6ndgvJRti4eqcp.jpg",
+    "genre_ids": [
+      16,
+      18,
+      10759,
+      10765,
+      10751
+    ],
+    "cached_at": "2025-12-17T06:24:28.809340"
+  },
+  "67960": {
+    "id": 67960,
+    "name": "Paranoid",
+    "original_name": "Paranoid",
+    "first_air_date": "2016-09-22",
+    "vote_average": 6.293,
+    "poster_path": "/6Z9oxugoepHqkXYVvElvb3VYcnm.jpg",
+    "genre_ids": [
+      9648,
+      80
+    ],
+    "cached_at": "2025-12-17T06:24:28.948937"
+  },
+  "244447": {
+    "id": 244447,
+    "name": "Nido di vipere",
+    "original_name": "The Hunting Wives",
+    "first_air_date": "2025-07-21",
+    "vote_average": 6.444,
+    "poster_path": "/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "cached_at": "2025-12-17T06:24:28.982988"
+  },
+  "46698": {
+    "id": 46698,
+    "name": "Randy - Un Ninja in Classe",
+    "original_name": "Randy Cunningham: 9th Grade Ninja",
+    "first_air_date": "2012-08-13",
+    "vote_average": 8.371,
+    "poster_path": "/uy864Z278ijIfCxQGmPMSp6eKkP.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10765
+    ],
+    "cached_at": "2025-12-17T06:24:29.020602"
+  },
+  "59717": {
+    "id": 59717,
+    "name": "Comedians in Cars Getting Coffee",
+    "original_name": "Comedians in Cars Getting Coffee",
+    "first_air_date": "2012-07-19",
+    "vote_average": 7.127,
+    "poster_path": "/hpK5MsFa7k7RQdClvRglBo0wAoT.jpg",
+    "genre_ids": [
+      35,
+      10767
+    ],
+    "cached_at": "2025-12-17T06:24:29.199586"
   }
 }
