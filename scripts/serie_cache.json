@@ -60967,5 +60967,42 @@
       10767
     ],
     "cached_at": "2025-12-17T06:24:29.199586"
+  },
+  "305995": {
+    "id": 305995,
+    "name": "What's in the Box?",
+    "original_name": "What's in the Box?",
+    "first_air_date": "2025-12-17",
+    "vote_average": 0.0,
+    "poster_path": "/riwRl7TPRH8OqMmleaPGtL1VBDC.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "cached_at": "2025-12-18T06:24:20.917917"
+  },
+  "42039": {
+    "id": 42039,
+    "name": "Love Rain",
+    "original_name": "사랑비",
+    "first_air_date": "2012-03-26",
+    "vote_average": 6.9,
+    "poster_path": "/6CClWljIHqIf7BG2aUf9UWRYpyo.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-18T06:24:21.056611"
+  },
+  "46976": {
+    "id": 46976,
+    "name": "Il giovane Hitler - L'alba del male",
+    "original_name": "Hitler: The Rise of Evil",
+    "first_air_date": "2003-05-18",
+    "vote_average": 7.1,
+    "poster_path": "/3pWiuZUsAsgLEqmSmdkbOFgnVvP.jpg",
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "cached_at": "2025-12-18T06:24:21.126559"
   }
 }

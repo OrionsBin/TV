@@ -141935,5 +141935,118 @@
       10770
     ],
     "cached_at": "2025-12-17T06:24:23.062875"
+  },
+  "451": {
+    "id": 451,
+    "title": "Via da Las Vegas",
+    "release_date": "1995-10-27",
+    "vote_average": 7.25,
+    "poster_path": "/rKB3u9gft8ic1SLqP0m4CCrYHrP.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-18T06:24:15.202078"
+  },
+  "30459": {
+    "id": 30459,
+    "title": "Fracchia contro Dracula",
+    "release_date": "1985-12-20",
+    "vote_average": 6.097,
+    "poster_path": "/dsduOh9R7ocxjyKcvsF2tPdFRLh.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "cached_at": "2025-12-18T06:24:15.304988"
+  },
+  "7304": {
+    "id": 7304,
+    "title": "Running",
+    "release_date": "2006-01-06",
+    "vote_average": 7.0,
+    "poster_path": "/84o2sYjleuaycaBuwdWPQzQ4iRm.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18,
+      53
+    ],
+    "cached_at": "2025-12-18T06:24:15.322577"
+  },
+  "15362": {
+    "id": 15362,
+    "title": "Nemico pubblico n. 1 - L'ora della fuga",
+    "release_date": "2008-11-19",
+    "vote_average": 7.3,
+    "poster_path": "/wEQm7pM5K6x92t9141IdBlKvpqY.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80,
+      18
+    ],
+    "cached_at": "2025-12-18T06:24:15.374586"
+  },
+  "13635": {
+    "id": 13635,
+    "title": "Nemico pubblico n. 1 - L'istinto di morte",
+    "release_date": "2008-10-22",
+    "vote_average": 7.311,
+    "poster_path": "/3JdqzBksf68WA12uVXEOmePoBAE.jpg",
+    "genre_ids": [
+      18,
+      28,
+      53,
+      80
+    ],
+    "cached_at": "2025-12-18T06:24:15.394270"
+  },
+  "8416": {
+    "id": 8416,
+    "title": "Il conformista",
+    "release_date": "1971-01-29",
+    "vote_average": 7.647,
+    "poster_path": "/cLguHl1zGwhAUjDG0VAxAuwVOxV.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-18T06:24:15.445827"
+  },
+  "41789": {
+    "id": 41789,
+    "title": "Garage Demy",
+    "release_date": "1991-05-15",
+    "vote_average": 7.433,
+    "poster_path": "/vTewRGlWNI3evxByDwEygXr9Wsh.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-18T06:24:15.466565"
+  },
+  "177203": {
+    "id": 177203,
+    "title": "The Challenger Disaster",
+    "release_date": "2013-03-18",
+    "vote_average": 7.2,
+    "poster_path": "/ltSiY7rORMGlSHGI7Lr0sgI8D6.jpg",
+    "genre_ids": [
+      53,
+      18,
+      36,
+      10770
+    ],
+    "cached_at": "2025-12-18T06:24:15.537549"
+  },
+  "615": {
+    "id": 615,
+    "title": "La passione di Cristo",
+    "release_date": "2004-02-25",
+    "vote_average": 7.517,
+    "poster_path": "/arQvRafRtfyEQqBZ4qAjuYuYsyo.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-18T06:24:15.588734"
   }
 }
