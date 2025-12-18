@@ -1,19 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="italysupercoppaitaliananapolivsmilan" tvg-name="Soccer | Italy - Supercoppa Italiana : Napoli vs Milan (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Supercoppa Italiana : Napoli vs Milan (19:00)
-https://daddyhd.com/watch.php?id=854
-
-#EXTINF:-1 tvg-id="europeuefaconferenceleaguerayovallecanovsdrita" tvg-name="Soccer | Europe - UEFA Conference League : Rayo Vallecano vs Drita (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Rayo Vallecano_vs_Drita.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Conference League : Rayo Vallecano vs Drita (20:00)
-https://daddyhd.com/watch.php?id=161
-
-#EXTINF:-1 tvg-id="europeuefaconferenceleaguelausannesportvsfiorentina" tvg-name="Soccer | Europe - UEFA Conference League : Lausanne Sport vs Fiorentina (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lausanne Sport_vs_Fiorentina.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Conference League : Lausanne Sport vs Fiorentina (20:00)
-https://daddyhd.com/watch.php?id=15
-
-#EXTINF:-1 tvg-id="europeuefaconferenceleaguelausannesportvsfiorentina" tvg-name="Soccer | Europe - UEFA Conference League : Lausanne Sport vs Fiorentina (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lausanne Sport_vs_Fiorentina.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Conference League : Lausanne Sport vs Fiorentina (20:00)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="scottishopenround3" tvg-name="Snooker | Scottish Open | Round 3 (19:00)" tvg-logo="https://static.wixstatic.com/media/91f3e5_810f9e2bf47a4f86a5277b35ed1e2044~mv2.png/v1/fit/w_2500,h_1330,al_c/91f3e5_810f9e2bf47a4f86a5277b35ed1e2044~mv2.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Round 3 (19:00)
-https://daddyhd.com/watch.php?id=878
-
