@@ -61004,5 +61004,30 @@
       10768
     ],
     "cached_at": "2025-12-18T06:24:21.126559"
+  },
+  "46504": {
+    "id": 46504,
+    "name": "Il carnivoro",
+    "original_name": "MeatEater",
+    "first_air_date": "2012-01-01",
+    "vote_average": 8.1,
+    "poster_path": "/iIBlBmYupUT8n5jyiGyuh3EDmDq.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-19T06:23:53.606880"
+  },
+  "85011": {
+    "id": 85011,
+    "name": "大约是爱",
+    "original_name": "大约是爱",
+    "first_air_date": "2018-12-03",
+    "vote_average": 6.3,
+    "poster_path": "/75duccV0PvY3tiujnXnDXPKw2VO.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-19T06:23:53.611440"
   }
 }
