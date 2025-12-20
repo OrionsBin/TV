@@ -142396,5 +142396,164 @@
       18
     ],
     "cached_at": "2025-12-19T06:23:48.215232"
+  },
+  "83384": {
+    "id": 83384,
+    "title": "Dark Horse",
+    "release_date": "2012-06-08",
+    "vote_average": 5.7,
+    "poster_path": "/47nbkrQQSdFKJY9BwR6rfeTOvWk.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "cached_at": "2025-12-20T06:22:55.761054"
+  },
+  "77785": {
+    "id": 77785,
+    "title": "Madison County",
+    "release_date": "2011-10-11",
+    "vote_average": 4.1,
+    "poster_path": "/2zCC4BBXyxb9rsSfv1edBgfWXsO.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "cached_at": "2025-12-20T06:22:55.801506"
+  },
+  "8055": {
+    "id": 8055,
+    "title": "The Reader - A voce alta",
+    "release_date": "2008-12-10",
+    "vote_average": 7.5,
+    "poster_path": "/6WlNFnyxFBypU5ZIPz8d4jmaYCz.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-20T06:22:55.825420"
+  },
+  "1589891": {
+    "id": 1589891,
+    "title": "Eroi cercasi",
+    "release_date": "2025-12-19",
+    "vote_average": 5.5,
+    "poster_path": "/8ZoDrAbrsSLDVjXsyvOlwjJakUK.jpg",
+    "genre_ids": [
+      35,
+      28
+    ],
+    "cached_at": "2025-12-20T06:22:55.947989"
+  },
+  "91549": {
+    "id": 91549,
+    "title": "The Moth Diaries",
+    "release_date": "2011-09-06",
+    "vote_average": 5.3,
+    "poster_path": "/pRi2je9Sz5W6nQLIrAUtdtWUMhf.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "cached_at": "2025-12-20T06:22:55.968776"
+  },
+  "70608": {
+    "id": 70608,
+    "title": "LEGO Star Wars: La Minaccia Padawan",
+    "release_date": "2011-07-22",
+    "vote_average": 6.545,
+    "poster_path": "/bCDa9memHnETeRrJWXzImTZdMal.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      878
+    ],
+    "cached_at": "2025-12-20T06:22:56.015878"
+  },
+  "11483": {
+    "id": 11483,
+    "title": "Pirati",
+    "release_date": "1986-05-08",
+    "vote_average": 6.3,
+    "poster_path": "/ltFTzHQdIyrnaQiNKkgi5zpHqPZ.jpg",
+    "genre_ids": [
+      12,
+      35
+    ],
+    "cached_at": "2025-12-20T06:22:56.048146"
+  },
+  "2290": {
+    "id": 2290,
+    "title": "Jakob il bugiardo",
+    "release_date": "1999-09-16",
+    "vote_average": 6.7,
+    "poster_path": "/jRTfaL4iE1YVlgbf5NacSdA9ahi.jpg",
+    "genre_ids": [
+      35,
+      18,
+      36
+    ],
+    "cached_at": "2025-12-20T06:22:56.085262"
+  },
+  "74879": {
+    "id": 74879,
+    "title": "C'era una volta in Anatolia",
+    "release_date": "2011-09-23",
+    "vote_average": 7.5,
+    "poster_path": "/5RGIjgTlt788OaJTTX8oS51P6AF.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "cached_at": "2025-12-20T06:22:56.162018"
+  },
+  "1223601": {
+    "id": 1223601,
+    "title": "Sisu: Il vendicatore",
+    "release_date": "2025-10-21",
+    "vote_average": 7.771,
+    "poster_path": "/wlaJnMzQUqmKtDY0xmUpmT3Bp8V.jpg",
+    "genre_ids": [
+      28,
+      10752
+    ],
+    "cached_at": "2025-12-20T06:22:56.166405"
+  },
+  "9024": {
+    "id": 9024,
+    "title": "Amore con interessi",
+    "release_date": "1993-10-01",
+    "vote_average": 6.183,
+    "poster_path": "/d3LkvenB5NAAVnqfwIxkhCfdkNa.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "cached_at": "2025-12-20T06:22:56.235774"
+  },
+  "982843": {
+    "id": 982843,
+    "title": "The Great Flood",
+    "release_date": "2025-09-18",
+    "vote_average": 7.1,
+    "poster_path": "/covyBUdRYoIoY4K5YzDEaxcZZmz.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "cached_at": "2025-12-20T06:22:56.309040"
+  },
+  "11873": {
+    "id": 11873,
+    "title": "Il colore dei soldi",
+    "release_date": "1986-10-17",
+    "vote_average": 6.853,
+    "poster_path": "/9QwVdUXuQhvLNOQwv4QH1Z5TE6J.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-20T06:22:56.378867"
   }
 }

@@ -61029,5 +61029,67 @@
       18
     ],
     "cached_at": "2025-12-19T06:23:53.611440"
+  },
+  "40017": {
+    "id": 40017,
+    "name": "버디버디",
+    "original_name": "버디버디",
+    "first_air_date": "2011-08-08",
+    "vote_average": 5.4,
+    "poster_path": "/haHBt13l7wReJrr664853EwKPdp.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "cached_at": "2025-12-20T06:23:01.483135"
+  },
+  "306074": {
+    "id": 306074,
+    "name": "CrunchLabs di Mark Rober's",
+    "original_name": "Mark Rober's CrunchLabs",
+    "first_air_date": "2025-11-19",
+    "vote_average": 10.0,
+    "poster_path": "/ppEXlChC27GBXdRj93Qq3uvCBBD.jpg",
+    "genre_ids": [
+      10751,
+      99
+    ],
+    "cached_at": "2025-12-20T06:23:01.503278"
+  },
+  "253833": {
+    "id": 253833,
+    "name": "How to Ruin Love",
+    "original_name": "How to Ruin Love",
+    "first_air_date": "2024-05-31",
+    "vote_average": 7.5,
+    "poster_path": "/yGwIvVxGv1MRbNjn500GyPWu7ud.jpg",
+    "genre_ids": [
+      35
+    ],
+    "cached_at": "2025-12-20T06:23:01.549714"
+  },
+  "101906": {
+    "id": 101906,
+    "name": "영혼수선공",
+    "original_name": "영혼수선공",
+    "first_air_date": "2020-05-06",
+    "vote_average": 6.7,
+    "poster_path": "/mFdzrVxHe2Zzrvj4JjQwncEyHnO.jpg",
+    "genre_ids": [
+      18
+    ],
+    "cached_at": "2025-12-20T06:23:01.571727"
+  },
+  "230936": {
+    "id": 230936,
+    "name": "Born to Be Wild",
+    "original_name": "Born to Be Wild",
+    "first_air_date": "2025-12-19",
+    "vote_average": 9.0,
+    "poster_path": "/m1Ih0GIUIWez6H4vNOdiKSow4w.jpg",
+    "genre_ids": [
+      99
+    ],
+    "cached_at": "2025-12-20T06:23:01.645947"
   }
 }
