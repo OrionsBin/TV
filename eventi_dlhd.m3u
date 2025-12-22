@@ -2,60 +2,30 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesligamainz05vsstpauli" tvg-name="All Soccer Events | Germany - Bundesliga : Mainz 05 vs St. Pauli (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mainz 05_vs_St. Pauli.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Mainz 05 vs St. Pauli (14:30)
-https://daddyhd.com/watch.php?id=460
+#EXTINF:-1 tvg-id="italyseriecunionbresciavsinterii" tvg-name="Soccer | Italy - Serie C : Union Brescia vs Inter II (20:30)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Union Brescia_vs_Inter II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Union Brescia vs Inter II (20:30)
+https://daddyhd.com/watch.php?id=3
 
-#EXTINF:-1 tvg-id="italyseriecnovaravsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Novara vs Ospitaletto (16:30)" tvg-logo="https://www.albergoitalia.novara.it/wp-content/uploads/2020/07/Logo-g-Albergo-Italia-Novara.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Novara vs Ospitaletto (16:30)
-https://daddyhd.com/watch.php?id=14
-
-#EXTINF:-1 tvg-id="italyseriecleccovspergolettese" tvg-name="All Soccer Events | Italy - Serie C : Lecco vs Pergolettese (16:30)" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.opencity.opencontent.it/var/lecco/storage/images/3780-84-ita-IT/Homepage_header_logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Lecco vs Pergolettese (16:30)
-https://daddyhd.com/watch.php?id=15
-
-#EXTINF:-1 tvg-id="italyseriecleccovspergolettese" tvg-name="All Soccer Events | Italy - Serie C : Lecco vs Pergolettese (16:30)" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.opencity.opencontent.it/var/lecco/storage/images/3780-84-ita-IT/Homepage_header_logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Lecco vs Pergolettese (16:30)
-https://daddyhd.com/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovscittadella" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Cittadella (16:30)" tvg-logo="https://iconape.com/wp-content/files/dp/322247/png/322247.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giana Erminio vs Cittadella (16:30)
-https://daddyhd.com/watch.php?id=16
-
-#EXTINF:-1 tvg-id="italyseriecperugiavsforlì" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Forlì (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Forlì.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Perugia vs Forlì (16:30)
-https://daddyhd.com/watch.php?id=18
-
-#EXTINF:-1 tvg-id="italyseriecmonopolivspotenzacalcio" tvg-name="All Soccer Events | Italy - Serie C : Monopoli vs Potenza Calcio (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monopoli_vs_Potenza Calcio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Monopoli vs Potenza Calcio (16:30)
-https://daddyhd.com/watch.php?id=17
-
-#EXTINF:-1 tvg-id="englandpremierleagueastonvillavsmanchesterunited" tvg-name="All Soccer Events | England - Premier League : Aston Villa vs Manchester United (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Aston Villa_vs_Manchester United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Aston Villa vs Manchester United (16:30)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="germanybundesligaheidenheimvsbayernmünchen" tvg-name="All Soccer Events | Germany - Bundesliga : Heidenheim vs Bayern München (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Heidenheim_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Heidenheim vs Bayern München (16:30)
-https://daddyhd.com/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyserieafiorentinavsudinese" tvg-name="All Soccer Events | Italy - Serie A : Fiorentina vs Udinese (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Udinese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Fiorentina vs Udinese (17:00)
-https://daddyhd.com/watch.php?id=20
-
-#EXTINF:-1 tvg-id="italyserieafiorentinavsudinese" tvg-name="All Soccer Events | Italy - Serie A : Fiorentina vs Udinese (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Udinese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Fiorentina vs Udinese (17:00)
+#EXTINF:-1 tvg-id="italyseriecunionbresciavsinterii" tvg-name="Soccer | Italy - Serie C : Union Brescia vs Inter II (20:30)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Union Brescia_vs_Inter II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Union Brescia vs Inter II (20:30)
 https://daddyhd.com/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (19:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/20340/logo/23168/logo_Northbridge-web.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (19:30)
-https://daddyhd.com/watch.php?id=18
+#EXTINF:-1 tvg-id="italyseriecunionbresciavsinterii" tvg-name="Soccer | Italy - Serie C : Union Brescia vs Inter II (20:30)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Union Brescia_vs_Inter II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Union Brescia vs Inter II (20:30)
+https://daddyhd.com/watch.php?id=882
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (19:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/20340/logo/23168/logo_Northbridge-web.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Casarano vs Team Altamura (19:30)
-https://daddyhd.com/watch.php?id=460
+#EXTINF:-1 tvg-id="italysupercoppaitalianafinalnapolivsbologna" tvg-name="Soccer | Italy - Supercoppa Italiana Final : Napoli vs Bologna (20:00)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Napoli_vs_Bologna.png" group-title="Eventi Live DLHD",Soccer | Italy - Supercoppa Italiana Final : Napoli vs Bologna (20:00)
+https://daddyhd.com/watch.php?id=854
 
-#EXTINF:-1 tvg-id="italyseriecsiracusavstrapani1905" tvg-name="All Soccer Events | Italy - Serie C : Siracusa vs Trapani 1905 (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Trapani 1905.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Siracusa vs Trapani 1905 (19:30)
-https://daddyhd.com/watch.php?id=15
-
-#EXTINF:-1 tvg-id="italyseriecsiracusavstrapani1905" tvg-name="All Soccer Events | Italy - Serie C : Siracusa vs Trapani 1905 (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Trapani 1905.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Siracusa vs Trapani 1905 (19:30)
-https://daddyhd.com/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italyserieagenoavsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Genoa vs Atalanta (19:45)" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/atalanta-logo-black-and-white.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Genoa vs Atalanta (19:45)
-https://daddyhd.com/watch.php?id=877
-
-#EXTINF:-1 tvg-id="scottishopenfinal" tvg-name="Snooker | Scottish Open | Final (18:45)" tvg-logo="https://asllearn.com/wp-content/uploads/2023/01/ASLlearnFinalLogo.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Final (18:45)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="top14bordeauxbeglesvstoulon" tvg-name="Rugby Union | Top 14 : Bordeaux Begles vs Toulon (20:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bordeaux Begles_vs_Toulon.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Bordeaux Begles vs Toulon (20:05)
+#EXTINF:-1 tvg-id="englandpremierleaguefulhamvsnottinghamforest" tvg-name="Soccer | England - Premier League : Fulham vs Nottingham Forest (21:00)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Fulham_vs_Nottingham Forest.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Fulham vs Nottingham Forest (21:00)
 https://daddyhd.com/watch.php?id=462
 
-#EXTINF:-1 tvg-id="individualcompetitonengelberghs140" tvg-name="Ski Jumping | Individual competiton | Engelberg HS140 (14:45)" tvg-logo="https://0.academia-photos.com/attachment_thumbnails/81405897/mini_magick20220226-21120-1fjt2sx.png?1645890709" group-title="Eventi Live DLHD",Ski Jumping | Individual competiton | Engelberg HS140 (14:45)
+#EXTINF:-1 tvg-id="spainlaligaathleticclubvsespanyol" tvg-name="Soccer | Spain - La Liga : Athletic Club vs Espanyol (21:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/65f21375598745491dbad204/0e975314-115d-4bba-b1f5-b4521e8ba12e/logo+(2).png?format=1500w" group-title="Eventi Live DLHD",Soccer | Spain - La Liga : Athletic Club vs Espanyol (21:00)
+https://daddyhd.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="altabadiamensslalomworldcuprun1" tvg-name="Alpine Ski | Alta Badia | Men's Slalom World Cup | Run 1 (09:45)" tvg-logo="https://www.visitaltabadia.it/images/logo.png" group-title="Eventi Live DLHD",Alpine Ski | Alta Badia | Men's Slalom World Cup | Run 1 (09:45)
 https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="altabadiamensslalomworldcuprun2" tvg-name="Alpine Ski | Alta Badia | Men's Slalom World Cup | Run 2 (13:05)" tvg-logo="https://www.visitaltabadia.it/images/logo.png" group-title="Eventi Live DLHD",Alpine Ski | Alta Badia | Men's Slalom World Cup | Run 2 (13:05)
+https://daddyhd.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="x2oplagecrossxobadkamerstrophy" tvg-name="Cycling | X2O Plage Cross X?O Badkamers Trophy (13:40)" tvg-logo="https://yz-trophy.vercel.app/images/logo.png" group-title="Eventi Live DLHD",Cycling | X2O Plage Cross X?O Badkamers Trophy (13:40)
+https://daddyhd.com/watch.php?id=879
 
