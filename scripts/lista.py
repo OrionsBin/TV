@@ -1666,8 +1666,8 @@ def schedule_extractor():
                 json=payload,
                 headers={
                     "Content-Type": "application/json",
-                    # "CF-Access-Client-Id": CF_ACCESS_CLIENT_ID,
-                    # "CF-Access-Client-Secret": CF_ACCESS_CLIENT_SECRET,
+                    "CF-Access-Client-Id": CF_ACCESS_CLIENT_ID,
+                    "CF-Access-Client-Secret": CF_ACCESS_CLIENT_SECRET,
                     "X-API-Key": FLARESOLVERR_API_KEY,
                 },
                 timeout=70,
