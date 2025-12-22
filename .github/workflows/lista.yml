@@ -26,8 +26,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml playwright bs4 rapidfuzz fuzzywuzzy python-Levenshtein python-dateutil python-dotenv pillow
-          playwright install
+          pip install -r requirements-lista.txt
 
       # Aggiungi qui le variabili d'ambiente necessarie per gli script.
       # Usa i secrets di GitHub per i dati sensibili.
