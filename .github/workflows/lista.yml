@@ -1,33 +1,33 @@
 name: RUN SCRIPT LISTA
 on:
   push:
-    branches: [ main, master ]
+    branches: [main, master]
     paths:
-      - 'scripts/lista.py'
+      - "scripts/lista.py"
   schedule:
-    - cron: '0 */2 * * *'  # Esegui ogni 2 ore
-  workflow_dispatch:  # Consente l'esecuzione manuale
+    - cron: "0 */2 * * *" # Esegui ogni 2 ore
+  workflow_dispatch: # Consente l'esecuzione manuale
 
 jobs:
   extract-data:
     runs-on: ubuntu-latest
     permissions:
       contents: write # Necessario per il commit
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
-      
+          python-version: "3.10"
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml playwright bs4 rapidfuzz fuzzywuzzy python-Levenshtein python-dateutil python-dotenv pillow
-          playwright install 
+          playwright install
 
       # Aggiungi qui le variabili d'ambiente necessarie per gli script.
       # Usa i secrets di GitHub per i dati sensibili.
@@ -40,14 +40,16 @@ jobs:
           BASE_URL3: ${{ secrets.BASE_URL3 }}
           FLARESOLVERR_URL: ${{ secrets.FLARESOLVERR_URL }}
           FLARESOLVERR_API_KEY: ${{ secrets.FLARESOLVERR_API_KEY }}
-      
+          CF_ACCESS_CLIENT_ID: ${{ secrets.CF_ACCESS_CLIENT_ID }}
+          CF_ACCESS_CLIENT_SECRET: ${{ secrets.CF_ACCESS_CLIENT_SECRET }}
+
       # Rimosso il 'git pull' manuale. L'azione di auto-commit gestisce già il fetch
       # in modo più sicuro, riducendo il rischio di conflitti di merge.
       # - name: Pull latest changes
       #   run: |
       #     git config pull.rebase false
       #     git pull origin main
-      
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

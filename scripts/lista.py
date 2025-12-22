@@ -1,11 +1,12 @@
-import requests
-import os
-import re
 import concurrent.futures
 import json
+import os
+import re
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 from datetime import datetime, timedelta
+
+import requests
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -27,10 +28,11 @@ def merger_playlist():
     # Aggiungi il codice del tuo script "merger_playlist.py" in questa funzione.
     # Ad esempio:
     print("Eseguendo il merger_playlist.py...")
-    import requests
     import os
-    from dotenv import load_dotenv
     import re
+
+    import requests
+    from dotenv import load_dotenv
 
     def parse_m3u_for_sorting(file_path):
         """Legge un file M3U e restituisce una lista di tuple (nome_canale, righe_canale)"""
@@ -135,10 +137,11 @@ def merger_playlistworld():
     # Aggiungi il codice del tuo script "merger_playlist.py" in questa funzione.
     # Ad esempio:
     print("Eseguendo il merger_playlistworld.py...")
-    import requests
     import os
-    from dotenv import load_dotenv
     import re
+
+    import requests
+    from dotenv import load_dotenv
 
     def parse_m3u_for_sorting(file_path):
         """Legge un file M3U e restituisce una lista di tuple (nome_canale, righe_canale)"""
@@ -244,11 +247,12 @@ def epg_merger():
     # Ad esempio:
     print("Eseguendo l'epg_merger.py...")
     # Il codice che avevi nello script "epg_merger.py" va qui, senza modifiche.
-    import requests
     import gzip
+    import io
     import os
     import xml.etree.ElementTree as ET
-    import io
+
+    import requests
 
     # URL dei file GZIP o XML da elaborare
     urls_gzip = [
@@ -363,17 +367,18 @@ def eventi_dlhd_m3u8_generator_world():
     # Aggiungi il codice del tuo script "eventi_dlhd_m3u8_generator.py" in questa funzione.
     print("Eseguendo l'eventi_dlhd_m3u8_generator.py...")
     # Il codice che avevi nello script "eventi_dlhd_m3u8_generator.py" va qui, senza modifiche.
+    import io  # Aggiunto per encoding URL
     import json
-    import re
-    import requests
-    import urllib.parse # Consolidato
-    from datetime import datetime, timedelta
-    from dateutil import parser
     import os
+    import re
+    import time
+    import urllib.parse  # Consolidato
+    from datetime import datetime, timedelta
+
+    import requests
+    from dateutil import parser
     from dotenv import load_dotenv
     from PIL import Image, ImageDraw, ImageFont
-    import io # Aggiunto per encoding URL
-    import time
     
     # Carica le variabili d'ambiente dal file .env
     load_dotenv()
@@ -948,19 +953,19 @@ def eventi_dlhd_m3u8_generator():
     # Aggiungi il codice del tuo script "eventi_dlhd_m3u8_generator.py" in questa funzione.
     print("Eseguendo l'eventi_dlhd_m3u8_generator.py...")
     # Il codice che avevi nello script "eventi_dlhd_m3u8_generator.py" va qui, senza modifiche.
-    import json 
-    import re 
-    import requests 
-    from urllib.parse import quote 
-    from datetime import datetime, timedelta 
-    from dateutil import parser 
-    import urllib.parse
+    import io
+    import json
     import os
+    import re
+    import time
+    import urllib.parse  # Aggiunto per encoding URL
+    from datetime import datetime, timedelta
+    from urllib.parse import quote
+
+    import requests
+    from dateutil import parser
     from dotenv import load_dotenv
     from PIL import Image, ImageDraw, ImageFont
-    import io
-    import urllib.parse # Aggiunto per encoding URL
-    import time
 
     # Carica le variabili d'ambiente dal file .env
     load_dotenv()
@@ -1505,36 +1510,37 @@ def eventi_dlhd_m3u8_generator():
     if __name__ == "__main__": 
         generate_m3u_from_schedule(JSON_FILE, OUTPUT_FILE)
 
+
+def require_env_variable(var_name):
+    value = os.getenv(var_name)
+    if not value or not value.strip():
+        print(f"❌ ERRORE: La variabile d'ambiente '{var_name}' non è impostata nel file .env. Impossibile continuare.")
+        return None
+    return value.strip()
+
 # Funzione per il quarto script (schedule_extractor.py)
 def schedule_extractor():
     # Codice del quarto script qui
     # Aggiungi il codice del tuo script "schedule_extractor.py" in questa funzione.
     print("Eseguendo lo schedule_extractor.py...")
     # Il codice che avevi nello script "schedule_extractor.py" va qui, senza modifiche.
-    from playwright.sync_api import sync_playwright
-    import os
     import json
-    from datetime import datetime
+    import os
     import re
+    from datetime import datetime
+
     from bs4 import BeautifulSoup
     from dotenv import load_dotenv
+    from playwright.sync_api import sync_playwright
     
     # Carica le variabili d'ambiente dal file .env
     load_dotenv()
     
     LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.dad"
-    FLARESOLVERR_URL = os.getenv("FLARESOLVERR_URL")
-    FLARESOLVERR_API_KEY = os.getenv("FLARESOLVERR_API_KEY")
-    if FLARESOLVERR_URL:
-        FLARESOLVERR_URL = FLARESOLVERR_URL.strip()
-    else:
-        print("❌ ERRORE: La variabile d'ambiente 'FLARESOLVERR_URL' non è impostata nel file .env. Impossibile continuare.")
-        return  # Interrompe l'esecuzione della funzione
-    if FLARESOLVERR_API_KEY:
-        FLARESOLVERR_API_KEY = FLARESOLVERR_API_KEY.strip()
-    else:
-        print("❌ ERRORE: La variabile d'ambiente 'FLARESOLVERR_API_KEY' non è impostata nel file .env. Impossibile continuare.")
-        return  # Interrompe l'esecuzione della funzione
+    FLARESOLVERR_URL = require_env_variable("FLARESOLVERR_URL")
+    FLARESOLVERR_API_KEY = require_env_variable("FLARESOLVERR_API_KEY")
+    CF_ACCESS_CLIENT_ID = require_env_variable("CF_ACCESS_CLIENT_ID")
+    CF_ACCESS_CLIENT_SECRET = require_env_variable("CF_ACCESS_CLIENT_SECRET")
     
     def html_to_json(html_content):
         """Converte il contenuto HTML della programmazione in formato JSON."""
@@ -1635,10 +1641,11 @@ def schedule_extractor():
         print(f"File JSON modificato e salvato in {json_file_path}")
         
     def extract_schedule_container():
-        import requests
-        from bs4 import BeautifulSoup
         import json
         import os
+
+        import requests
+        from bs4 import BeautifulSoup
         
         url = f"{LINK_DADDY}/"
         script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -1657,8 +1664,13 @@ def schedule_extractor():
             response = requests.post(
                 FLARESOLVERR_URL,
                 json=payload,
-                headers={"Content-Type": "application/json", "X-API-Key": FLARESOLVERR_API_KEY},
-                timeout=70
+                headers={
+                    "Content-Type": "application/json",
+                    "CF-Access-Client-Id": CF_ACCESS_CLIENT_ID,
+                    "CF-Access-Client-Secret": CF_ACCESS_CLIENT_SECRET,
+                    "X-API-Key": FLARESOLVERR_API_KEY,
+                },
+                timeout=70,
             )
             
             result = response.json()
@@ -1704,13 +1716,14 @@ def schedule_extractor():
 # Funzione per il sesto script (italy_channels.py)
 def italy_channels():
     print("Eseguendo il italy_channels.py...")
-    import requests
-    import time
-    import re
-    import xml.etree.ElementTree as ET
     import os
-    from dotenv import load_dotenv
+    import re
+    import time
+    import xml.etree.ElementTree as ET
+
+    import requests
     from bs4 import BeautifulSoup
+    from dotenv import load_dotenv
 
     def getAuthSignature():
         headers = {
@@ -2297,9 +2310,10 @@ def world_channels_generator():
     # Aggiungi il codice del tuo script "world_channels_generator.py" in questa funzione.
     print("Eseguendo il world_channels_generator.py...")
     # Il codice che avevi nello script "world_channels_generator.py" va qui, senza modifiche.
-    import requests
-    import time
     import re
+    import time
+
+    import requests
     
     def getAuthSignature():
         headers = {
@@ -2409,10 +2423,11 @@ def world_channels_generator():
         save_as_m3u(channels) 
     
 def sportsonline():
-    import requests
-    import re
-    from bs4 import BeautifulSoup
     import datetime
+    import re
+
+    import requests
+    from bs4 import BeautifulSoup
     
     # URL del file di programmazione
     PROG_URL = "https://sportsonline.sn/prog.txt"
