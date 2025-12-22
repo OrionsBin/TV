@@ -1674,6 +1674,8 @@ def schedule_extractor():
             )
             
             result = response.json()
+
+            response.raise_for_status()
             
             if result.get("status") != "ok":
                 print(f"❌ FlareSolverr fallito: {result.get('message')}")
