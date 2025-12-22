@@ -1524,10 +1524,16 @@ def schedule_extractor():
     
     LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.dad"
     FLARESOLVERR_URL = os.getenv("FLARESOLVERR_URL")
+    FLARESOLVERR_API_KEY = os.getenv("FLARESOLVERR_API_KEY")
     if FLARESOLVERR_URL:
         FLARESOLVERR_URL = FLARESOLVERR_URL.strip()
     else:
         print("❌ ERRORE: La variabile d'ambiente 'FLARESOLVERR_URL' non è impostata nel file .env. Impossibile continuare.")
+        return  # Interrompe l'esecuzione della funzione
+    if FLARESOLVERR_API_KEY:
+        FLARESOLVERR_API_KEY = FLARESOLVERR_API_KEY.strip()
+    else:
+        print("❌ ERRORE: La variabile d'ambiente 'FLARESOLVERR_API_KEY' non è impostata nel file .env. Impossibile continuare.")
         return  # Interrompe l'esecuzione della funzione
     
     def html_to_json(html_content):
@@ -1651,7 +1657,7 @@ def schedule_extractor():
             response = requests.post(
                 FLARESOLVERR_URL,
                 json=payload,
-                headers={"Content-Type": "application/json"},
+                headers={"Content-Type": "application/json", "X-API-Key": FLARESOLVERR_API_KEY},
                 timeout=70
             )
             
