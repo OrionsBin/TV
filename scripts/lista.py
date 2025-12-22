@@ -1666,16 +1666,16 @@ def schedule_extractor():
                 json=payload,
                 headers={
                     "Content-Type": "application/json",
-                    "CF-Access-Client-Id": CF_ACCESS_CLIENT_ID,
-                    "CF-Access-Client-Secret": CF_ACCESS_CLIENT_SECRET,
+                    # "CF-Access-Client-Id": CF_ACCESS_CLIENT_ID,
+                    # "CF-Access-Client-Secret": CF_ACCESS_CLIENT_SECRET,
                     "X-API-Key": FLARESOLVERR_API_KEY,
                 },
                 timeout=70,
             )
             
-            result = response.json()
-
             response.raise_for_status()
+            
+            result = response.json()
             
             if result.get("status") != "ok":
                 print(f"❌ FlareSolverr fallito: {result.get('message')}")
@@ -1707,7 +1707,7 @@ def schedule_extractor():
             return True
             
         except Exception as e:
-            print(f"❌ ERRORE: {str(e)}")
+            print(f"❌ ERRORE: exception raised ({e.__class__.__name__}): {str(e)}")
             return False
     
     if __name__ == "__main__":
