@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieapisavscomo" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Como (15:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/jg7ChWhHx9uMqs6/como-1907-2019-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Como (15:00)
-https://daddyhd.com/watch.php?id=877
-
 #EXTINF:-1 tvg-id="italyseriealeccevsroma" tvg-name="All Soccer Events | Italy - Serie A : Lecce vs Roma (18:00)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Lecce_vs_Roma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lecce vs Roma (18:00)
 https://daddyhd.com/watch.php?id=5
 
