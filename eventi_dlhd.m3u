@@ -2,15 +2,24 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecpinetovsnuovamonterosi" tvg-name="Soccer | Italy - Serie C : Pineto vs Nuova Monterosi (20:30)" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pineto vs Nuova Monterosi (20:30)
-https://daddyhd.com/watch.php?id=14
+#EXTINF:-1 tvg-id="italyseriecsalernitanavscosenza" tvg-name="Soccer | Italy - Serie C : Salernitana vs Cosenza (20:30)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Salernitana_vs_Cosenza.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Cosenza (20:30)
+https://daddyhd.com/watch.php?id=4
 
-#EXTINF:-1 tvg-id="italyserieainternazionalevsnapoli" tvg-name="Soccer | Italy - Serie A : Internazionale vs Napoli (20:45)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Internazionale_vs_Napoli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Internazionale vs Napoli (20:45)
-https://daddyhd.com/watch.php?id=877
+#EXTINF:-1 tvg-id="italyseriecsalernitanavscosenza" tvg-name="Soccer | Italy - Serie C : Salernitana vs Cosenza (20:30)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Salernitana_vs_Cosenza.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Cosenza (20:30)
+https://daddyhd.com/watch.php?id=462
 
-#EXTINF:-1 tvg-id="wta500adelaidewta250hobart" tvg-name="Tennis | WTA 500 Adelaide / WTA 250 Hobart (23:30)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/wta-logo.png" group-title="Eventi Live DLHD",Tennis | WTA 500 Adelaide / WTA 250 Hobart (23:30)
-https://daddyhd.com/watch.php?id=576
+#EXTINF:-1 tvg-id="italyseriecsalernitanavscosenza" tvg-name="Soccer | Italy - Serie C : Salernitana vs Cosenza (20:30)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Salernitana_vs_Cosenza.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Cosenza (20:30)
+https://daddyhd.com/watch.php?id=882
 
-#EXTINF:-1 tvg-id="londonmastersmarkselbyvsxiaoguodong" tvg-name="Snooker | London Masters : Mark Selby vs Xiao Guodong (20:00)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Mark Selby_vs_Xiao Guodong.png" group-title="Eventi Live DLHD",Snooker | London Masters : Mark Selby vs Xiao Guodong (20:00)
-https://daddyhd.com/watch.php?id=878
+#EXTINF:-1 tvg-id="italyseriecgiuglianovspicerno" tvg-name="Soccer | Italy - Serie C : Giugliano vs Picerno (20:30)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Giugliano_vs_Picerno.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Giugliano vs Picerno (20:30)
+https://daddyhd.com/watch.php?id=5
+
+#EXTINF:-1 tvg-id="italyseriecgiuglianovspicerno" tvg-name="Soccer | Italy - Serie C : Giugliano vs Picerno (20:30)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Giugliano_vs_Picerno.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Giugliano vs Picerno (20:30)
+https://daddyhd.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italyserieajuventusvscremonese" tvg-name="Soccer | Italy - Serie A : Juventus vs Cremonese (20:45)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Juventus_vs_Cremonese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Juventus vs Cremonese (20:45)
+https://daddyhd.com/watch.php?id=6
+
+#EXTINF:-1 tvg-id="italyserieajuventusvscremonese" tvg-name="Soccer | Italy - Serie A : Juventus vs Cremonese (20:45)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Juventus_vs_Cremonese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Juventus vs Cremonese (20:45)
+https://daddyhd.com/watch.php?id=870
 
