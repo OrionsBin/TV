@@ -239,6 +239,8 @@ https://vavoo.to/vavoo-iptv/play/3271666551331132c8bfab
 https://vavoo.to/vavoo-iptv/play/2764553737f817b6d4f583
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (2)
 https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
+#EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
+https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TV QUI (MODENA)
 https://vavoo.to/vavoo-iptv/play/3845119578fb3b0c0d1832
 #EXTINF:-1 tvg-id="tv2000.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/0d/Logo_di_TV2000.png" group-title="Altro",TV2000
@@ -431,6 +433,8 @@ https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
 # MUSICA
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
+https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Musica",EURO INDIE MUSIC CHART TV
 https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ5HlBu4jXOrC4iA-giQNzXa9zm42bS-yrA&s" group-title="Musica",FM ITALIA
