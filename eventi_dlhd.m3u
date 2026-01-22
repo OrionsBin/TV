@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italycoppaitaliafemminilenapolivsjuventus" tvg-name="Soccer | Italy - Coppa Italia Femminile : Napoli vs Juventus (18:00)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Napoli_vs_Juventus.png" group-title="Eventi Live DLHD",Soccer | Italy - Coppa Italia Femminile : Napoli vs Juventus (18:00)
-https://daddyhd.com/watch.php?id=870
-
 #EXTINF:-1 tvg-id="europeuefaeuropaleaguefenerbahçevsastonvilla" tvg-name="Soccer | Europe - UEFA Europa League : Fenerbahçe vs Aston Villa (18:45)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Fenerbahçe_vs_Aston Villa.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Europa League : Fenerbahçe vs Aston Villa (18:45)
 https://daddyhd.com/watch.php?id=8
 
@@ -49,7 +46,4 @@ https://daddyhd.com/watch.php?id=3
 
 #EXTINF:-1 tvg-id="euroleaguewomenveneziawvsfenerbahcew" tvg-name="Basketball | Euroleague Women : Venezia W vs Fenerbahce W (19:30)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Venezia W_vs_Fenerbahce W.png" group-title="Eventi Live DLHD",Basketball | Euroleague Women : Venezia W vs Fenerbahce W (19:30)
 https://daddyhd.com/watch.php?id=882
-
-#EXTINF:-1 tvg-id="men15kmindividualcompetitionnovemesto" tvg-name="Biathlon | Men 15 km Individual Competition | Nove Mesto (17:15)" tvg-logo="https://iconape.com/wp-content/files/xe/308551/png/nk-krka-nove-mesto-logo.png" group-title="Eventi Live DLHD",Biathlon | Men 15 km Individual Competition | Nove Mesto (17:15)
-https://daddyhd.com/watch.php?id=878
 
