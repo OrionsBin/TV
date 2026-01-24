@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="englandpremierleaguewesthamunitedvssunderland" tvg-name="Soccer | England - Premier League : West Ham United vs Sunderland (13:30)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/West Ham United_vs_Sunderland.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : West Ham United vs Sunderland (13:30)
-https://daddyhd.com/watch.php?id=461
-
 #EXTINF:-1 tvg-id="italyseriecalbinoleffevstrento" tvg-name="Soccer | Italy - Serie C : AlbinoLeffe vs Trento (14:30)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/AlbinoLeffe_vs_Trento.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : AlbinoLeffe vs Trento (14:30)
 https://daddyhd.com/watch.php?id=182
 
@@ -73,12 +70,6 @@ https://daddyhd.com/watch.php?id=461
 
 #EXTINF:-1 tvg-id="italyseriealeccevslazio" tvg-name="Soccer | Italy - Serie A : Lecce vs Lazio (20:45)" tvg-logo="https://raw.githubusercontent.com/OrionsBin/TV/main/logos/Lecce_vs_Lazio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lecce vs Lazio (20:45)
 https://daddyhd.com/watch.php?id=870
-
-#EXTINF:-1 tvg-id="2x62x75mixedrelaymwnovemesto" tvg-name="Biathlon | 2x6+2x7.5 Mixed Relay (M-W) | Nove Mesto (13:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Biathlon | 2x6+2x7.5 Mixed Relay (M-W) | Nove Mesto (13:15)
-https://daddyhd.com/watch.php?id=878
-
-#EXTINF:-1 tvg-id="maasmechelenucicyclocrossworldcupwomen" tvg-name="Cycling | Maasmechelen UCI Cyclo-Cross World Cup Women (13:30)" tvg-logo="https://images.ctfassets.net/761l7gh5x5an/24ZTCtRAiHTe7UcTzk6IiO/383646061ef7ea5293a9975538d0847f/santini_black_logo.png" group-title="Eventi Live DLHD",Cycling | Maasmechelen UCI Cyclo-Cross World Cup Women (13:30)
-https://daddyhd.com/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldcupmaasmechelenmasculine" tvg-name="Cycling | World Cup | Maasmechelen Masculine (15:15)" tvg-logo="https://intraverse.io/wp-content/uploads/2023/03/NFT_WORLD_CUP_LOGO_x_website.png" group-title="Eventi Live DLHD",Cycling | World Cup | Maasmechelen Masculine (15:15)
 https://daddyhd.com/watch.php?id=879
